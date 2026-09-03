@@ -1,0 +1,173 @@
+{
+  "name": "Antigua and Barbuda",
+  "labels": {
+    "administrativeAreaLevel1": {
+      "plural": "Parishes",
+      "singular": "Parish"
+    },
+    "locality": {
+      "plural": "Cities",
+      "singular": "City"
+    }
+  },
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "0ccf216684a9",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b4c7ec2b82230",
+            "_type": "span",
+            "marks": [],
+            "text": "In Antigua and Barbuda, cannabis laws have undergone significant changes in recent years. The country decriminalized cannabis possession in 2018, allowing individuals to possess up to 15 grams of cannabis without facing criminal charges. Additionally, the law permits the cultivation of up to four cannabis plants per household. While the possession and cultivation of cannabis for personal use have been decriminalized, the sale of cannabis remains illegal in Antigua and Barbuda. Efforts are underway to draft legislation that would legalize both recreational and medical marijuana sales, with a focus on providing certain circumstances under which cannabis sales would be permitted."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "eaef78a06232",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "d10c00b8bb6f0",
+            "_type": "span",
+            "marks": [],
+            "text": "When exploring cannabis derivatives in Antigua and Barbuda, Delta-8 and Delta-9 THC, along with THCA and CBD, are essential components. Delta-8 THC is federally legal under the 2018 Hemp Bill but is subject to state-level regulations that may restrict its use in certain states. On the other hand, Delta-9 THC is a psychoactive compound found in cannabis that has been legalized for adult-use in various countries. THCA is a non-psychoactive cannabinoid that requires less caution in dosing compared to THC. Understanding the legal nuances surrounding these compounds is crucial due to the complexities of regulations governing their use and distribution, especially as countries like Antigua and Barbuda navigate the evolving landscape of cannabis legislation."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized"
+    },
+    "thca": {
+      "legalStatus": "legal"
+    },
+    "delta9": {
+      "legalStatus": "unclear"
+    },
+    "delta8": {
+      "legalStatus": "legal"
+    },
+    "cbd": {
+      "legalStatus": "legal"
+    }
+  },
+  "administrativeAreaLevel1": [
+    {
+      "name": "Saint John",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "e02d2d2dccc7",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "e01c3d8c1b640",
+                "_type": "span",
+                "marks": [],
+                "text": "In St. John, Antigua and Barbuda, cannabis laws reflect a progressive approach to the plant. The country has decriminalized cannabis possession, allowing individuals to have small amounts of cannabis without facing criminal charges. Additionally, Antigua and Barbuda has granted Rastafari sacramental rights to grow and use cannabis, recognizing its significance within the religious community. This move signifies a step towards acknowledging the cultural and spiritual importance of cannabis for certain groups within the country."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "80c473cd1ade",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "068e05946bce0",
+                "_type": "span",
+                "marks": [],
+                "text": "When delving into cannabis derivatives in St. John, Antigua and Barbuda, Delta-8 and Delta-9 THC, along with THCA and CBD, are noteworthy components. Delta-8 THC is federally legal under the 2018 Hemp Bill but is subject to state-level regulations that may restrict its use in certain states. On the other hand, Delta-9 THC is a psychoactive compound found in cannabis that has been legalized for adult-use in various countries. THCA is a non-psychoactive cannabinoid that requires less caution in dosing compared to THC. Understanding the legal nuances surrounding these compounds is essential due to their varying effects and the regulations governing their use and distribution in St. John, Antigua and Barbuda."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "illegal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "legal"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "legal"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Saint John's",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "2980d61b37d4",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e3be89e7ce710",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In St. John's, Barbuda, cannabis laws reflect a progressive stance towards the plant. The country has decriminalized cannabis possession, allowing individuals to have small amounts of cannabis without facing criminal charges. Notably, registered Rastafarians in Barbuda have been granted sacramental rights to grow and use cannabis, recognizing its spiritual significance within the community. This move highlights a step towards acknowledging the cultural and religious importance of cannabis for certain groups in St. John's, Barbuda."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "00b6f6559c08",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3100d61e165a0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "When exploring cannabis derivatives in St. John's, Barbuda, Delta-8 and Delta-9 THC, along with THCA and CBD, are significant components. Delta-8 THC is federally legal under the 2018 Hemp Bill but is subject to state-level regulations that may restrict its use in certain states. On the other hand, Delta-9 THC is a psychoactive compound found in cannabis that has been legalized for adult-use in various countries. THCA is a non-psychoactive cannabinoid that requires less caution in dosing compared to THC. Understanding the legal nuances surrounding these compounds is essential due to their varying effects and the regulations governing their use and distribution in St. John's, Barbuda."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "illegal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized"
+            },
+            "thca": {
+              "legalStatus": "legal"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "legal"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Iran",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    }
+  }
+}

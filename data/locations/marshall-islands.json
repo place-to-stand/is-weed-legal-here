@@ -1,0 +1,11 @@
+{
+  "name": "Marshall Islands",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Saint Vincent and the Grenadines",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "2 ounces"
+    }
+  }
+}

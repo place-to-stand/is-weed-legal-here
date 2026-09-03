@@ -1,0 +1,11 @@
+{
+  "name": "Micronesia",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    }
+  }
+}

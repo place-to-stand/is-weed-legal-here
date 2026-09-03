@@ -1,0 +1,11 @@
+{
+  "name": "Rwanda",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    }
+  }
+}

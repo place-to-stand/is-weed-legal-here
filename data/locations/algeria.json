@@ -1,0 +1,11 @@
+{
+  "name": "Algeria",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    }
+  }
+}

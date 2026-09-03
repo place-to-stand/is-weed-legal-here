@@ -1,0 +1,11 @@
+{
+  "name": "Tunisia",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    }
+  }
+}

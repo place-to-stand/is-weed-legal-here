@@ -1,0 +1,11 @@
+{
+  "name": "San Marino",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    }
+  }
+}

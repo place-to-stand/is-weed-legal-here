@@ -1,0 +1,403 @@
+{
+  "name": "Barbados",
+  "labels": {
+    "administrativeAreaLevel1": {
+      "plural": "Parishes",
+      "singular": "Parish"
+    },
+    "locality": {
+      "plural": "Cities",
+      "singular": "City"
+    }
+  },
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "3cd15223b245",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "216d5f70609b0",
+            "_type": "span",
+            "marks": [],
+            "text": "In Barbados, the cannabis scene is a bit of a mixed bag. While recreational weed is still off-limits, the island has made some moves to legalize medical cannabis and allow spiritual use by registered Rastas. Back in 2019, they passed the Medicinal Cannabis Industry Bill, which set up a framework for growing, producing, and distributing medical marijuana. And the Sacramental Cannabis Bill lets registered Rastas use the herb for spiritual purposes. But if you're caught with up to 14 grams for personal use, you're looking at a $200 fine rather than criminal charges - a more chill approach to minor possession."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "e55fcc6e2ff8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "def6e1efa4f80",
+            "_type": "span",
+            "marks": [],
+            "text": "When it comes to specific cannabis derivatives like Delta-8, Delta-9 THC, THCA, and CBD in Barbados, the legal situation is a bit of a puzzle. The regulations distinguish between psychoactive and non-psychoactive cannabis based on THC content - psychoactive stuff is for medical use only, while non-psychoactive \"hemp\" is allowed. The recent updates aim to strengthen the rules around medical and therapeutic cannabis use, laying out the requirements for research, production, import, and sale of these derivatives. But with the unregulated CBD market, it's still a bit of a wild west when it comes to aligning everything with Barbados' evolving cannabis laws."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    },
+    "thca": {
+      "legalStatus": "unclear"
+    },
+    "delta9": {
+      "legalStatus": "unclear"
+    },
+    "delta8": {
+      "legalStatus": "unclear"
+    },
+    "cbd": {
+      "legalStatus": "unclear"
+    }
+  },
+  "administrativeAreaLevel1": [
+    {
+      "name": "Saint Michael",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "fc6c15aad02e",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "1bb9847e679d0",
+                "_type": "span",
+                "marks": [],
+                "text": "In Saint Michael, Barbados, the vibe around cannabis is pretty laid-back but with clear lines drawn. Recreational use is a no-go, but the island's cool with medical cannabis and lets registered Rastafarians use it for their spiritual rituals. The Medicinal Cannabis Industry Act of 2019 kicked off a system for growing and selling medical weed. And for those practicing Rastafari, the Sacramental Cannabis Act has got their back. Got caught with up to 14 grams just for yourself? No sweat, you'll just pay a $200 fine instead of facing harsher penalties."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "12cf632423ca",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "de269150c1cf0",
+                "_type": "span",
+                "marks": [],
+                "text": "Diving into the specifics, like Delta-8, Delta-9 THC, THCA, and CBD, in Saint Michael, things get a bit more technical. The law separates the more chill, non-psychoactive stuff, labeled as \"hemp,\" from the more intense psychoactive cannabis, reserved for medical peeps. Recent updates are all about tightening up the medical and therapeutic use of cannabis, making sure everything from research to selling is up to snuff. Even with the buzz around CBD's benefits, the market's still like the wild west, trying to fit into Barbados' evolving cannabis rules."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      },
+      "locality": [
+        {
+          "name": "Bridgetown",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "a70b54cdcda1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a212e6c758610",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Bridgetown, Barbados, cannabis is illegal for recreational use but has been decriminalized for small amounts. Possession of up to 14 grams of cannabis or ganja can result in a $200 fine, with no criminal charges typically imposed. However, the law remains strict, especially for young individuals caught with marijuana, who may be referred to drug abuse programs or community service. Despite recreational cannabis being illegal, Barbados legalized medical cannabis in November 2019 through the Medicinal Cannabis Industry Bill, allowing registered Rastafarians to use cannabis for spiritual purposes under the Sacramental Cannabis Bill."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "9036e52fcea3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5ad685dd1eae0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "When it comes to cannabis derivatives in Bridgetown, Barbados, Delta-8 and Delta-9 THC, along with THCA and CBD, play significant roles. Delta-8 THC is considered a milder version of Delta-9 THC and exists in a legal gray area in some regions. THCA is non-psychoactive and requires less caution in dosing compared to THC. Understanding the legal landscape around these compounds is crucial due to the complexities of regulations governing their sale and use, especially considering the differences between natural cannabinoids and synthetic versions like THC-O."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "unclear"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Christ Church",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Saint Andrew",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Saint George",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Saint James",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Saint John",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Saint Joseph",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Saint Lucy",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Saint Peter",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Saint Philip",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Saint Thomas",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    }
+  ]
+}

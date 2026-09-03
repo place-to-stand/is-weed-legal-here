@@ -34,7 +34,7 @@ export default function getChildLocationsFromLocation(
   const administrativeAreaLevel1Match =
     countryMatch &&
     location.administrativeAreaLevel1 !== DASH_PLACEHOLDER &&
-    countryMatch.administrativeAreaLevel1?.children?.find(
+    countryMatch.administrativeAreaLevel1?.find(
       administrativeAreaLevel1 =>
         administrativeAreaLevel1.name === location.administrativeAreaLevel1
     )
@@ -42,7 +42,7 @@ export default function getChildLocationsFromLocation(
   const administrativeAreaLevel2Match =
     administrativeAreaLevel1Match &&
     location.administrativeAreaLevel2 !== DASH_PLACEHOLDER &&
-    administrativeAreaLevel1Match.administrativeAreaLevel2?.children?.find(
+    administrativeAreaLevel1Match.administrativeAreaLevel2?.find(
       administrativeAreaLevel2 =>
         administrativeAreaLevel2.name === location.administrativeAreaLevel2
     )
@@ -50,7 +50,7 @@ export default function getChildLocationsFromLocation(
   const localityMatch =
     administrativeAreaLevel1Match &&
     location.locality !== DASH_PLACEHOLDER &&
-    administrativeAreaLevel1Match.locality?.children?.find(
+    administrativeAreaLevel1Match.locality?.find(
       locality => locality.name === location.locality
     )
 
@@ -67,7 +67,7 @@ export default function getChildLocationsFromLocation(
           plural: countryMatch.labels?.locality?.plural || 'Localities',
         },
         names:
-          administrativeAreaLevel1Match.locality?.children
+          administrativeAreaLevel1Match.locality
             ?.map(locality => locality.name)
             .sort((a, b) => a.localeCompare(b)) ?? [],
       },
@@ -82,7 +82,7 @@ export default function getChildLocationsFromLocation(
             'Administrative Areas Level 2',
         },
         names:
-          administrativeAreaLevel1Match.administrativeAreaLevel2?.children
+          administrativeAreaLevel1Match.administrativeAreaLevel2
             ?.map(administrativeAreaLevel2 => administrativeAreaLevel2.name)
             .sort((a, b) => a.localeCompare(b)) ?? [],
       },
@@ -102,7 +102,7 @@ export default function getChildLocationsFromLocation(
             'Administrative Areas Level 1',
         },
         names:
-          countryMatch.administrativeAreaLevel1?.children
+          countryMatch.administrativeAreaLevel1
             ?.map(administrativeAreaLevel1 => administrativeAreaLevel1.name)
             .sort((a, b) => a.localeCompare(b)) ?? [],
       },

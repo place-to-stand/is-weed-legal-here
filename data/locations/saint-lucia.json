@@ -1,0 +1,148 @@
+{
+  "name": "Saint Lucia",
+  "labels": {
+    "administrativeAreaLevel1": {
+      "plural": "Districts",
+      "singular": "District"
+    },
+    "locality": {
+      "plural": "Cities",
+      "singular": "City"
+    }
+  },
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "f8cf08935b71",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "4608a91826630",
+            "_type": "span",
+            "marks": [],
+            "text": "In St. Lucia, cannabis is legal for personal use, allowing individuals to possess up to 30 grams of the plant. This move towards decriminalization occurred in September 2021, reflecting a more lenient approach to cannabis possession within the country. St. Lucia's local cannabis production meets a significant portion of the demand, with additional supply sourced from other Caribbean islands like Jamaica and St. Vincent, as well as countries like the United States, Colombia, and Venezuela."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "e1eba5e8fedd",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "4a8e9ef8de3d0",
+            "_type": "span",
+            "marks": [],
+            "text": "When considering cannabis derivatives in St. Lucia, Delta-8 and Delta-9 THC, along with THCA and CBD, are noteworthy components. Delta-8 THC is federally legal under the 2018 Hemp Bill but may be subject to state-level regulations that restrict its use in certain states. Delta-9 THC is a psychoactive compound found in cannabis that has been legalized for adult-use in various countries. THCA is a non-psychoactive cannabinoid that requires less caution in dosing compared to THC. Understanding the legal landscape around these compounds is essential due to their varying effects and the regulations governing their use and distribution in St. Lucia."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "legal",
+      "quantity": "30 grams"
+    },
+    "thca": {
+      "legalStatus": "legal"
+    },
+    "delta9": {
+      "legalStatus": "legal"
+    },
+    "delta8": {
+      "legalStatus": "legal"
+    },
+    "cbd": {
+      "legalStatus": "legal"
+    }
+  },
+  "administrativeAreaLevel1": [
+    {
+      "name": "Castries",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "b532a145fa1c",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "92b82726a9130",
+                "_type": "span",
+                "marks": [],
+                "text": "In Castries, St. Lucia, cannabis laws have evolved to embrace a more lenient approach towards the plant. The country decriminalized cannabis possession in 2021, allowing individuals to possess up to 30 grams of cannabis without facing criminal charges. This shift reflects a more progressive stance on cannabis within St. Lucia, aligning with global trends towards decriminalization and legalization of the plant for personal use."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "illegal"
+        },
+        "recreational": {
+          "legalStatus": "legal",
+          "quantity": "up to 30 grams"
+        },
+        "thca": {
+          "legalStatus": "legal"
+        },
+        "delta9": {
+          "legalStatus": "legal"
+        },
+        "delta8": {
+          "legalStatus": "legal"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Castries",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "a8c36482aa42",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "bfbdb7b782020",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Castries, St. Lucia, cannabis laws have evolved to embrace a more lenient approach towards the plant. The country decriminalized cannabis possession in 2021, allowing individuals to possess up to 30 grams of cannabis without facing criminal charges. This shift reflects a more progressive stance on cannabis within St. Lucia, aligning with global trends towards decriminalization and legalization of the plant for personal use."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "legal",
+              "quantity": "up to 30 grams"
+            },
+            "thca": {
+              "legalStatus": "legal"
+            },
+            "delta9": {
+              "legalStatus": "legal"
+            },
+            "delta8": {
+              "legalStatus": "legal"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

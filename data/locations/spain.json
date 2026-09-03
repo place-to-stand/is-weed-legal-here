@@ -1,0 +1,11 @@
+{
+  "name": "Spain",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized"
+    }
+  }
+}

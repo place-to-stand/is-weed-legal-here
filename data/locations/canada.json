@@ -1,0 +1,11 @@
+{
+  "name": "Canada",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "legal"
+    }
+  }
+}

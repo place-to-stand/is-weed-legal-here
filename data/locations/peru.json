@@ -1,0 +1,54 @@
+{
+  "name": "Peru",
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "a9813a82d833",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fddca8cb88220",
+            "_type": "span",
+            "marks": [],
+            "text": "In Peru, cannabis laws have evolved to allow individuals and legal entities to use, investigate, produce, import, and commercialize cannabis and its derivatives exclusively for medical and therapeutic purposes. While recreational cannabis remains illegal, possession of under 8 grams is decriminalized for personal use, reflecting a more lenient approach to minor possession offenses. The country's regulations have undergone revisions to enhance access to medical cannabis, with a focus on broadening the availability of plant-based medicines for patients in need."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "9d93ed06fb96",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "85f803b73c850",
+            "_type": "span",
+            "marks": [],
+            "text": "When it comes to specific cannabis derivatives like Delta-8 and Delta-9 THC, as well as THCA and CBD in Peru, the legal landscape remains complex. The regulations distinguish between psychoactive and non-psychoactive cannabis based on THC content, with psychoactive cannabis designated for medical use and non-psychoactive cannabis known as \"hemp.\" The recent regulatory updates aim to strengthen the framework for medical and therapeutic cannabis use, outlining specific requirements for research, production, importation, and commercialization of cannabis derivatives. Despite ongoing discussions around CBD benefits, the unregulated CBD market poses challenges in aligning with evolving cannabis legislation in Peru."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "8 grams"
+    },
+    "thca": {
+      "legalStatus": "unclear"
+    },
+    "delta9": {
+      "legalStatus": "unclear"
+    },
+    "delta8": {
+      "legalStatus": "unclear"
+    },
+    "cbd": {
+      "legalStatus": "legal"
+    }
+  }
+}

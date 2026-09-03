@@ -1,0 +1,11 @@
+{
+  "name": "Argentina",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized"
+    }
+  }
+}

@@ -53,7 +53,7 @@ const getLegalityDataForLocation = (
   const administrativeAreaLevel1Match =
     countryMatch &&
     location.administrativeAreaLevel1 !== DASH_PLACEHOLDER &&
-    countryMatch.administrativeAreaLevel1?.children?.find(
+    countryMatch.administrativeAreaLevel1?.find(
       administrativeAreaLevel1 =>
         administrativeAreaLevel1.name === location.administrativeAreaLevel1
     )
@@ -72,7 +72,7 @@ const getLegalityDataForLocation = (
   const administrativeAreaLevel2Match =
     administrativeAreaLevel1Match &&
     location.administrativeAreaLevel2 !== DASH_PLACEHOLDER &&
-    administrativeAreaLevel1Match.administrativeAreaLevel2?.children?.find(
+    administrativeAreaLevel1Match.administrativeAreaLevel2?.find(
       administrativeAreaLevel2 =>
         administrativeAreaLevel2.name === location.administrativeAreaLevel2
     )
@@ -91,7 +91,7 @@ const getLegalityDataForLocation = (
   const localityMatch =
     administrativeAreaLevel1Match &&
     location.locality !== DASH_PLACEHOLDER &&
-    administrativeAreaLevel1Match.locality?.children?.find(
+    administrativeAreaLevel1Match.locality?.find(
       locality => locality.name === location.locality
     )
 

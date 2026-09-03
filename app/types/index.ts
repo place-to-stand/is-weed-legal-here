@@ -19,6 +19,7 @@ export type LegalStatus =
 
 type IWLH_commonFields = {
   isWeedLegalHere?: {
+    /** Rich text in Portable Text format (https://portabletext.org) */
     overview?: TypedObject[]
     medicinal?: {
       legalStatus?: LegalStatusMedicinal
@@ -57,12 +58,8 @@ export type IIHD_administrativeAreaLevel2 = IWLH_commonFields & {
 
 export type IIHD_administrativeAreaLevel1 = IWLH_commonFields & {
   name: string
-  administrativeAreaLevel2?: {
-    children?: IIHD_administrativeAreaLevel2[]
-  }
-  locality?: {
-    children?: IIHD_locality[]
-  }
+  administrativeAreaLevel2?: IIHD_administrativeAreaLevel2[]
+  locality?: IIHD_locality[]
 }
 
 export type IIHD_country = IWLH_commonFields & {
@@ -81,7 +78,5 @@ export type IIHD_country = IWLH_commonFields & {
       plural?: string
     }
   }
-  administrativeAreaLevel1?: {
-    children?: IIHD_administrativeAreaLevel1[]
-  }
+  administrativeAreaLevel1?: IIHD_administrativeAreaLevel1[]
 }

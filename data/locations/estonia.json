@@ -1,0 +1,53 @@
+{
+  "name": "Estonia",
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "1e5ea70652c3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a6582f3dbc650",
+            "_type": "span",
+            "marks": [],
+            "text": "In Estonia, cannabis laws are relatively strict, with recreational marijuana use being illegal. Possession of small amounts for personal use can lead to fines or even detention for up to 30 days. However, CBD, which is non-psychoactive, is legal and widely available. You can find CBD products such as oils, creams, and edibles in various stores and online, catering to those looking for the therapeutic benefits without the high associated with THC."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "599bf8319b03",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "6cecff12f7b90",
+            "_type": "span",
+            "marks": [],
+            "text": "As for other cannabis compounds like THCa, Delta-8, and Delta-9 THC, the laws are more stringent. THCa, which remains non-psychoactive until heated, and Delta-8 THC, known for its milder psychoactive effects, are generally treated the same as Delta-9 THC under Estonian law due to their potential to produce a high. Delta-9 THC, the primary psychoactive component in cannabis, is strictly regulated, and medical use is tightly controlled, requiring a prescription for specific medical conditions. Despite these strict regulations, there is a growing interest in the potential medical benefits of these compounds, which might lead to more nuanced discussions about cannabis laws in Estonia in the future."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized"
+    },
+    "thca": {
+      "legalStatus": "unclear"
+    },
+    "delta9": {
+      "legalStatus": "unclear"
+    },
+    "delta8": {
+      "legalStatus": "unclear"
+    },
+    "cbd": {
+      "legalStatus": "legal"
+    }
+  }
+}

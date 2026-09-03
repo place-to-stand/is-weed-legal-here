@@ -1,0 +1,11 @@
+{
+  "name": "Switzerland",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized"
+    }
+  }
+}

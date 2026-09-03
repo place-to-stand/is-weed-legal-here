@@ -1,0 +1,12 @@
+{
+  "name": "Czech Republic",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "10 grams"
+    }
+  }
+}

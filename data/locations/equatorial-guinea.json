@@ -1,0 +1,11 @@
+{
+  "name": "Equatorial Guinea",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    }
+  }
+}

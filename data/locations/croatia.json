@@ -1,0 +1,649 @@
+{
+  "name": "Croatia",
+  "labels": {
+    "administrativeAreaLevel1": {
+      "plural": "Counties",
+      "singular": "County"
+    },
+    "locality": {
+      "plural": "Cities",
+      "singular": "City"
+    }
+  },
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "c8fd34db05a7",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "bff886f1807e0",
+            "_type": "span",
+            "marks": [],
+            "text": "In Croatia, cannabis laws have seen significant changes in recent years. Since 2013, possession of small amounts of marijuana and other light drugs like cannabis has been decriminalized, leading to minor fines instead of criminal charges. However, growing or selling cannabis remains a felony punishable by a mandatory prison sentence. On the medical front, Croatia officially legalized the use of cannabis-based drugs for conditions such as cancer, multiple sclerosis, and AIDS in 2015, allowing patients access to cannabis-based medicines containing over 0.2% THC."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "41b89c96c418",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "213b46e8ddf10",
+            "_type": "span",
+            "marks": [],
+            "text": "When it comes to cannabis derivatives in Croatia, Delta-8 and Delta-9 THC, along with THCA and CBD, play crucial roles. Delta-8 THC is a derivative of hemp CBD and binds to CB1 receptors less strongly than Delta-9 THC, making it less psychoactive. On the other hand, Delta-9 THC is known for its psychoactive effects and has been approved for medical use in treating conditions like chemotherapy-induced nausea and vomiting. Understanding the legal landscape around these compounds is essential due to their varying effects and the regulations governing their use and distribution in Croatia."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "small amounts"
+    },
+    "thca": {
+      "legalStatus": "unclear"
+    },
+    "delta9": {
+      "legalStatus": "unclear"
+    },
+    "delta8": {
+      "legalStatus": "unclear"
+    },
+    "cbd": {
+      "legalStatus": "unclear"
+    }
+  },
+  "administrativeAreaLevel1": [
+    {
+      "name": "Bjelovar-Bilogora County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Brod-Posavina County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Dubrovnik-Neretva County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Grad Zagreb",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      },
+      "locality": [
+        {
+          "name": "Zagreb",
+          "isWeedLegalHere": {
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "unclear"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Istria County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Karlovac",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Krapina-Zagorje County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Koprivnica-Križevci County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Lika-Senj County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Međimurje County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Osijek-Baranja County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      },
+      "locality": [
+        {
+          "name": "Osijek",
+          "isWeedLegalHere": {
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "unclear"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Požega-Slavonia County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Primorje-Gorski Kotar County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      },
+      "locality": [
+        {
+          "name": "Rijeka",
+          "isWeedLegalHere": {
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "unclear"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Šibenik-Knin County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Sisak-Moslavina County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Split-Dalmatia County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      },
+      "locality": [
+        {
+          "name": "Split",
+          "isWeedLegalHere": {
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "unclear"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Varaždin",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Virovitica-Podravina County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Vukovar-Srijem County",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Zadar",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    },
+    {
+      "name": "Zagreb",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      }
+    }
+  ]
+}

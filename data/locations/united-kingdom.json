@@ -1,0 +1,53 @@
+{
+  "name": "United Kingdom",
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "7872e01f9518",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "e482bbaf495b0",
+            "_type": "span",
+            "marks": [],
+            "text": "In the UK, cannabis laws have seen significant changes, with medical cannabis being legal since 2018. However, recreational cannabis remains illegal, and possession, distribution, sale, or cultivation of cannabis is against the law. Access to medical cannabis involves a process that includes gathering evidence of the need for treatment, booking an appointment with a specialist, and obtaining a prescription from a panel of experts. Despite the legalization of medical cannabis, many individuals resort to self-medication with black market cannabis due to the cost and limited access to legal medicinal weed."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "dc8e19a4dc88",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a4e06b0425fc0",
+            "_type": "span",
+            "marks": [],
+            "text": "When it comes to specific cannabis derivatives like Delta-8 and Delta-9 THC, as well as THCA and CBD in the UK, regulations remain strict. Cannabis and its derivatives are classified as controlled substances, with limited exceptions for medical use. The legal landscape surrounding these derivatives is complex, with licensing requirements for possession, manufacturing, importation, or exportation of cannabis-based medicinal products. While there have been advancements in prescribing certain cannabis-based products for medicinal use, access remains limited due to a lack of evidence on the benefits of these products. The evolving regulatory environment in the UK hints at potential changes in how cannabis derivatives are handled within the country's legal framework."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    },
+    "thca": {
+      "legalStatus": "unclear"
+    },
+    "delta9": {
+      "legalStatus": "unclear"
+    },
+    "delta8": {
+      "legalStatus": "unclear"
+    },
+    "cbd": {
+      "legalStatus": "legal"
+    }
+  }
+}

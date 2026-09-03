@@ -1,0 +1,12 @@
+{
+  "name": "Bermuda",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "7 grams"
+    }
+  }
+}

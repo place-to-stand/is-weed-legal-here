@@ -3,7 +3,7 @@ import getCurrentLocationFromUrlParams from './helpers/getCurrentLocationFromUrl
 import getChildLocationsFromLocation from './helpers/getChildLocationGroupsFromLocation'
 import getUrlFromCurrentLocation from './helpers/getUrlFromCurrentLocation'
 import { IIHD_country, CurrentLocation } from './types'
-import { cmsFetch } from './data/client'
+import { getAllCountries } from './data/db'
 
 const defaultPage: MetadataRoute.Sitemap[0] = {
   url: 'https://www.isweedlegalhere.com',
@@ -18,32 +18,6 @@ const browsePage: MetadataRoute.Sitemap[0] = {
   changeFrequency: 'weekly',
   priority: 1,
 }
-
-const ALL_DATA_QUERY = `
-  *[_type == 'IIHD_country'] | order(name) {
-    name,
-    isWeedLegalHere,
-    labels,
-    administrativeAreaLevel1 {
-      children[]-> {
-        name,
-        isWeedLegalHere,
-        administrativeAreaLevel2 {
-          children[]-> {
-            name,
-            isWeedLegalHere
-          }
-        },
-        locality {
-          children[]-> {
-            name,
-            isWeedLegalHere
-          }
-        }
-      }
-    }
-  }
-`
 
 const enumerateLocationPages = (
   data: IIHD_country[],
@@ -82,15 +56,7 @@ const enumerateLocationPages = (
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const data = await cmsFetch<IIHD_country[]>({
-    query: ALL_DATA_QUERY,
-    tags: [
-      'IIHD_country',
-      'IIHD_administrativeAreaLevel1',
-      'IIHD_administrativeAreaLevel2',
-      'IIHD_locality',
-    ],
-  })
+  const data = await getAllCountries()
 
   const emptyCurrentLocation = getCurrentLocationFromUrlParams([])
   const locationPages: MetadataRoute.Sitemap = []

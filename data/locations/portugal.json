@@ -1,0 +1,12 @@
+{
+  "name": "Portugal",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "25 grams"
+    }
+  }
+}

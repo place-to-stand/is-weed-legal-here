@@ -1,0 +1,11 @@
+{
+  "name": "Bosnia and Herzegovina",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    }
+  }
+}

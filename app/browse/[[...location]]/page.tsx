@@ -2,9 +2,12 @@ import getChildLocationsFromLocation from '@/app/helpers/getChildLocationGroupsF
 import { DASH_PLACEHOLDER } from '@/app/helpers/getUrlFromCurrentLocation'
 import getCurrentLocationFromUrlParams from '@/app/helpers/getCurrentLocationFromUrlParams'
 import getLegalityDataForLocation from '@/app/helpers/getLegalityDataForLocation'
-import { cmsFetch } from '@/app/data/client'
+import {
+  getAllCountries,
+  getCountriesByName,
+  getLocationCount,
+} from '@/app/data/db'
 import BrowseLocation from './BrowseLocation'
-import { IIHD_country } from '@/app/types'
 import { Metadata, ResolvingMetadata } from 'next'
 
 type BrowsePageProps = {
@@ -18,46 +21,6 @@ type GenerateMetadataParams = {
     location: string[]
   }
 }
-
-const LOCATION_COUNT_QUERY = `
-  count(*[_type == 'IIHD_country' ||
-    _type == 'IIHD_administrativeAreaLevel1' ||
-    _type == 'IIHD_administrativeAreaLevel2' ||
-    _type == 'IIHD_locality'])
-`
-
-const ALL_COUNTRIES_QUERY = `
-  *[_type == 'IIHD_country'] | order(name) {
-    name,
-    isWeedLegalHere
-  }
-`
-
-const COUNTRY_MATCH_QUERY = `
-  *[_type == 'IIHD_country' && name == $country] | order(name) {
-    name,
-    isWeedLegalHere,
-    labels,
-    administrativeAreaLevel1 {
-      children[]-> {
-        name,
-        isWeedLegalHere,
-        administrativeAreaLevel2 {
-          children[]-> {
-            name,
-            isWeedLegalHere
-          }
-        },
-        locality {
-          children[]-> {
-            name,
-            isWeedLegalHere
-          }
-        }
-      }
-    }
-  }
-`
 
 export async function generateMetadata(
   { params: { location } }: GenerateMetadataParams,
@@ -80,16 +43,7 @@ export async function generateMetadata(
 
   if (location) {
     const currentLocation = getCurrentLocationFromUrlParams(location)
-    const data = await cmsFetch<IIHD_country[]>({
-      query: COUNTRY_MATCH_QUERY,
-      params: { country: currentLocation.country },
-      tags: [
-        'IIHD_country',
-        'IIHD_administrativeAreaLevel1',
-        'IIHD_administrativeAreaLevel2',
-        'IIHD_locality',
-      ],
-    })
+    const data = await getCountriesByName(currentLocation.country)
 
     const legalityData = getLegalityDataForLocation(currentLocation, data)
 
@@ -118,25 +72,10 @@ export default async function BrowsePage({
   const isBrowseRootPage = currentLocation.country === DASH_PLACEHOLDER
 
   const [data, totalLocationCount] = await Promise.all([
-    cmsFetch<IIHD_country[]>({
-      query: isBrowseRootPage ? ALL_COUNTRIES_QUERY : COUNTRY_MATCH_QUERY,
-      params: { country: currentLocation.country },
-      tags: [
-        'IIHD_country',
-        'IIHD_administrativeAreaLevel1',
-        'IIHD_administrativeAreaLevel2',
-        'IIHD_locality',
-      ],
-    }),
-    cmsFetch<number>({
-      query: LOCATION_COUNT_QUERY,
-      tags: [
-        'IIHD_country',
-        'IIHD_administrativeAreaLevel1',
-        'IIHD_administrativeAreaLevel2',
-        'IIHD_locality',
-      ],
-    }),
+    isBrowseRootPage
+      ? getAllCountries()
+      : getCountriesByName(currentLocation.country),
+    getLocationCount(),
   ])
 
   const childLocationGroups = getChildLocationsFromLocation(

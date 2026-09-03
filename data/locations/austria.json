@@ -1,0 +1,53 @@
+{
+  "name": "Austria",
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "0d647d1e0452",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "77a55e69a6590",
+            "_type": "span",
+            "marks": [],
+            "text": "In Austria, cannabis laws are quite strict, with recreational marijuana use remaining illegal. However, there is some leniency when it comes to possession of small amounts for personal use, which might result in fines rather than jail time. On the other hand, CBD products are legal and widely available, as long as they contain less than 0.3% THC. This means you can easily find CBD oils, creams, and other products in stores and online, catering to those seeking the therapeutic benefits of cannabis without the high."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "afa87ca36531",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "6b916b5b7c8b0",
+            "_type": "span",
+            "marks": [],
+            "text": "When it comes to other cannabis compounds like THCa, Delta-8, and Delta-9 THC, the laws are more restrictive. THCa, which is non-psychoactive until heated, and Delta-8 THC, known for its milder effects, are not explicitly addressed in Austrian law but are generally treated the same as THC due to their psychoactive potential. Delta-9 THC, the main psychoactive component in cannabis, is strictly regulated. Medical marijuana is available but under strict conditions and typically requires a prescription for specific health conditions. Despite the stringent regulations, there's a growing interest in the potential medical benefits of these compounds, hinting at a slow shift in attitudes towards cannabis in Austria."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    },
+    "thca": {
+      "legalStatus": "unclear"
+    },
+    "delta9": {
+      "legalStatus": "unclear"
+    },
+    "delta8": {
+      "legalStatus": "unclear"
+    },
+    "cbd": {
+      "legalStatus": "legal"
+    }
+  }
+}

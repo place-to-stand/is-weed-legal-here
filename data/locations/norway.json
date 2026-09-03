@@ -1,0 +1,984 @@
+{
+  "name": "Norway",
+  "labels": {
+    "administrativeAreaLevel1": {
+      "plural": "Counties",
+      "singular": "County"
+    },
+    "locality": {
+      "plural": "Cities",
+      "singular": "City"
+    }
+  },
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "c1797069e43e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "7304972181ee0",
+            "_type": "span",
+            "marks": [],
+            "text": "In Norway, marijuana is strictly illegal for all purposes, including recreational and medical use. Possession of even small amounts of marijuana can lead to legal consequences, ranging from fines to imprisonment. The country has not legalized medical marijuana like some other European nations, maintaining a stringent stance on cannabis. However, there have been discussions around decriminalizing personal drug use and providing medical treatment to users instead of fines and imprisonment, showcasing a potential shift in drug policy within Norway."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "ed3ffc509f5d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "da1727004e110",
+            "_type": "span",
+            "marks": [],
+            "text": "Regarding cannabis derivatives like Delta-8, Delta-9 THC, and THCA in Norway, these substances are strictly regulated. THC is not allowed in any product in the country, making marijuana and products containing THC illegal. To purchase legal CBD oil in Norway, it must be a broad-spectrum product or based on a CBD isolate with 0.00% THC content. Full spectrum CBD oils are not permissible due to the presence of THC. The stringent regulations surrounding these compounds reflect Norway's conservative approach towards cannabis and its derivatives."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    },
+    "thca": {
+      "legalStatus": "illegal"
+    },
+    "delta9": {
+      "legalStatus": "illegal"
+    },
+    "delta8": {
+      "legalStatus": "illegal"
+    },
+    "cbd": {
+      "legalStatus": "legal",
+      "quantity": "containing 0.0% THC"
+    }
+  },
+  "administrativeAreaLevel1": [
+    {
+      "name": "Buskerud",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "fe4d0ef96962",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "e5055f201a340",
+                "_type": "span",
+                "marks": [],
+                "text": "In Buskerud, Norway, marijuana remains illegal for all purposes, including recreational and medical use. The country upholds strict laws against cannabis possession, with penalties ranging from fines to imprisonment, depending on the quantity possessed. Despite discussions around drug reform in Norway and attempts at decriminalization, marijuana remains prohibited in Buskerud and throughout the country. The stringent stance on cannabis aligns with Norway's historical approach towards drug policy, emphasizing strict regulations and enforcement against cannabis possession."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "0b9592827bf7",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "e18aeb6758740",
+                "_type": "span",
+                "marks": [],
+                "text": "When considering cannabis derivatives like Delta-8, Delta-9 THC, and THCA in Buskerud, Norway, these substances are strictly regulated in line with the overall prohibition of marijuana. THC is not permitted in any product within the country, making marijuana and products containing THC illegal. Obtaining legal CBD oil in Norway requires it to be a broad-spectrum product or based on a CBD isolate with 0.00% THC content. The country's conservative approach extends to these compounds, reflecting a broader stance against cannabis and its derivatives in Buskerud, Norway."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "illegal"
+        },
+        "delta9": {
+          "legalStatus": "illegal"
+        },
+        "delta8": {
+          "legalStatus": "illegal"
+        },
+        "cbd": {
+          "legalStatus": "legal",
+          "quantity": "containing 0.0% THC"
+        }
+      },
+      "locality": [
+        {
+          "name": "Drammen",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "3c0b293c1b80",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8d55a929bbff0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Drammen, Norway, as in the rest of the country, the legality of marijuana is governed by national laws, which strictly prohibit recreational use. This includes the cultivation, possession, and distribution of cannabis, with violations subject to penalties ranging from fines to imprisonment, depending on the severity of the offense. However, Norway permits the use of medical cannabis, albeit under strict regulatory controls. Patients requiring treatment must obtain a prescription from a healthcare provider authorized by the Norwegian Medicines Agency. This reflects Norway's cautious approach, balancing the prohibition of recreational use against the need for certain patients to access medical cannabis."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "f948d5feb371",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6d2809800b960",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Regarding cannabis compounds like Delta-8, Delta-9 THC, and THCA, these substances fall under the same legal restrictions as general cannabis use in Drammen, meaning they are also prohibited for recreational purposes. On the other hand, CBD (Cannabidiol) is legal in Norway, including Drammen, provided it contains less than 0.0% THC. This aligns with Norwegian policy that aims to mitigate the psychoactive effects while allowing for the potential health benefits of CBD. Despite international trends shifting towards more lenient cannabis laws, Norway maintains its stringent regulations, mirroring the country’s overall conservative stance on drug use."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "illegal"
+            },
+            "delta9": {
+              "legalStatus": "illegal"
+            },
+            "delta8": {
+              "legalStatus": "illegal"
+            },
+            "cbd": {
+              "legalStatus": "legal",
+              "quantity": "containing 0.0% THC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Oslo",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "923e35d98b7d",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "3310844161ad0",
+                "_type": "span",
+                "marks": [],
+                "text": "In Oslo, Norway, the use of marijuana remains illegal for both recreational and medical purposes. The country enforces strict regulations regarding cannabis possession, with penalties varying depending on the quantity held. While minor possession, typically up to 15 grams for personal use, may result in fines, more significant amounts can lead to harsher consequences, including potential imprisonment for repeat offenders, cultivators, and sellers. Despite discussions around drug policy reform influenced by models like the Portuguese approach to decriminalization of personal drug use and possession of small quantities, marijuana remains prohibited in Oslo and across Norway."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "664f1b0f6c8d",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "1bcdc4ccc8d80",
+                "_type": "span",
+                "marks": [],
+                "text": "When examining cannabis derivatives such as Delta-8, Delta-9 THC, and THCA in Oslo, Norway, these substances are subject to stringent controls in line with the overarching ban on marijuana. The presence of THC is strictly forbidden in any product within the country, rendering marijuana and THC-containing items illegal. To obtain legally permissible CBD oil in Norway, it must be either a broad-spectrum formulation or derived from a CBD isolate with no detectable THC content. The rigorous oversight of these compounds mirrors Norway's conservative stance on cannabis and its derivatives in Oslo."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "illegal"
+        },
+        "delta9": {
+          "legalStatus": "illegal"
+        },
+        "delta8": {
+          "legalStatus": "illegal"
+        },
+        "cbd": {
+          "legalStatus": "legal",
+          "quantity": "containing 0.0% THC"
+        }
+      },
+      "locality": [
+        {
+          "name": "Oslo",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "47063a87b220",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a16fbf0f60e50",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Oslo, Norway, the use of marijuana remains illegal for both recreational and medical purposes. The country enforces strict regulations regarding cannabis possession, with penalties varying depending on the quantity held. While minor possession, typically up to 15 grams for personal use, may result in fines, more significant amounts can lead to harsher consequences, including potential imprisonment for repeat offenders, cultivators, and sellers. Despite discussions around drug policy reform influenced by models like the Portuguese approach to decriminalization of personal drug use and possession of small quantities, marijuana remains prohibited in Oslo and across Norway."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "8639d8fa18ee",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8f141bcf51fc0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "When examining cannabis derivatives such as Delta-8, Delta-9 THC, and THCA in Oslo, Norway, these substances are subject to stringent controls in line with the overarching ban on marijuana. The presence of THC is strictly forbidden in any product within the country, rendering marijuana and THC-containing items illegal. To obtain legally permissible CBD oil in Norway, it must be either a broad-spectrum formulation or derived from a CBD isolate with no detectable THC content. The rigorous oversight of these compounds mirrors Norway's conservative stance on cannabis and its derivatives in Oslo."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "illegal"
+            },
+            "delta9": {
+              "legalStatus": "illegal"
+            },
+            "delta8": {
+              "legalStatus": "illegal"
+            },
+            "cbd": {
+              "legalStatus": "legal",
+              "quantity": "containing 0.0% THC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Østfold",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "56358b0e021c",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "0322c519912e0",
+                "_type": "span",
+                "marks": [],
+                "text": "In Østfold, Norway, recreational cannabis is illegal, with possession of small amounts typically resulting in fines. Medical cannabis is legal but highly regulated, accessible only through a stringent prescription process. The legal stance extends to cannabis derivatives like Delta-8, Delta-9 THC, and THCA, which fall under the country's general cannabis regulations. CBD is legal under specific conditions, requiring less than 0.0% THC."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "illegal"
+        },
+        "delta9": {
+          "legalStatus": "illegal"
+        },
+        "delta8": {
+          "legalStatus": "illegal"
+        },
+        "cbd": {
+          "legalStatus": "legal",
+          "quantity": "containing 0.0% THC"
+        }
+      },
+      "locality": [
+        {
+          "name": "Fredrikstad",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "676e577f977d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d52b5b7de2620",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Fredrikstad, Norway, the legality of marijuana and related products is subject to strict regulations. CBD is legal in Fredrikstad, but only if it contains 0.00% THC, meaning full-spectrum CBD products are not permitted. Conversely, THC in any form, including delta-8, delta-9, and THCA, is considered illegal in Norway. Possession, sale, or use of products containing even trace amounts of THC can lead to legal consequences, with penalties ranging from fines to imprisonment."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e92f17078ae8",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6f789ee140840",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Regarding the specific cannabinoids, the laws in Fredrikstad closely mirror the national regulations. Delta-8 and delta-9 THC are tightly regulated due to their psychoactive properties. THCA is likely to be subject to similar restrictions as THC due to its potential to convert into psychoactive THC. CBD remains legal in Fredrikstad as long as it adheres strictly to the 0.00% THC requirement set by Norwegian law."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "illegal"
+            },
+            "delta9": {
+              "legalStatus": "illegal"
+            },
+            "delta8": {
+              "legalStatus": "illegal"
+            },
+            "cbd": {
+              "legalStatus": "legal",
+              "quantity": "containing 0.0% THC"
+            }
+          }
+        },
+        {
+          "name": "Sarpsborg",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "f93c74641a33",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d9a0e8c2a3c10",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Sarpsborg, Norway, the legality of marijuana is stringent. Norway has strict regulations regarding CBD and THC products. CBD is legal in Norway as long as it contains 0.00% THC, meaning full-spectrum products are not allowed. On the other hand, THC is considered illegal in Norway, and any products containing even trace amounts of THC are banned, leading to legal consequences for possession or use."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "d78d0660372f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6f384a1afd100",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "When it comes to delta-8, delta-9, THCA, and CBD in Sarpsborg, Norway, the laws align with the country's strict stance on cannabis-related products. Delta-8 and delta-9 THC are treated similarly in Norway, with both being tightly regulated and restricted due to their psychoactive properties. THCA is also likely to fall under the same regulations as THC due to its potential to convert into psychoactive THC. CBD remains legal as long as it complies with the stringent 0.00% THC requirement set by Norwegian law."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "illegal"
+            },
+            "delta9": {
+              "legalStatus": "illegal"
+            },
+            "delta8": {
+              "legalStatus": "illegal"
+            },
+            "cbd": {
+              "legalStatus": "legal",
+              "quantity": "containing 0.0% THC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rogaland",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "1df335bd72ae",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "cfbe3ffffa750",
+                "_type": "span",
+                "marks": [],
+                "text": "In Rogaland, Norway, as well as across the country, the legality of cannabis remains stringent. Recreational cannabis is illegal, with possession of small quantities typically resulting in fines. The legal framework does not differentiate significantly across different regions of Norway, so the rules applicable nationwide also apply in Rogaland. Medical cannabis, however, is legal but subject to strict regulations; it is available to patients under very specific conditions and only through a doctor's prescription. CBD is legal provided it contains less than 0.0% THC. There is ongoing debate and public discourse regarding the potential for law reform towards decriminalization and medical use, reflecting a gradual shift in public opinion and political attitudes."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "64f734f243e5",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "6e7b731230f90",
+                "_type": "span",
+                "marks": [],
+                "text": "Regarding specific compounds like Delta-8, Delta-9 THC, and THCA, the Norwegian law does not separate these explicitly from general cannabis regulations. As recreational use of cannabis, which these compounds are a part of, is illegal, it is implied that these specific cannabinoids are also not allowed for recreational use. On the other hand, CBD, a non-psychoactive component, is legal under the strict condition that it does not contain psychoactive levels of THC. Despite the evolving discourse around cannabis laws globally, Norway maintains its conservative stance, with strict regulations on cannabis and its derivatives."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "illegal"
+        },
+        "delta9": {
+          "legalStatus": "illegal"
+        },
+        "delta8": {
+          "legalStatus": "illegal"
+        },
+        "cbd": {
+          "legalStatus": "legal",
+          "quantity": "containing 0.0% THC"
+        }
+      },
+      "locality": [
+        {
+          "name": "Sandnes",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "8e7356ae0db5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "79b92c088ce60",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Sandness, Norway, the laws regarding marijuana are consistent with national regulations, as Norway's drug policies apply uniformly across all its regions, including Rogaland county where Sandness is located. Recreational use of cannabis, including the possession, sale, and cultivation, is illegal. Offenses can lead to fines or more severe penalties depending on the quantity and the nature of the offense. However, medical cannabis is permissible under strict conditions and requires a prescription from a qualified medical professional. This reflects Norway's approach to cannabis, which balances strict prohibition on recreational use with allowances for certain medical conditions under controlled circumstances."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "64dfb881a76e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8b77d573c7000",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Specific compounds derived from cannabis, such as Delta-8, Delta-9 THC, and THCA, fall under the same legal restrictions as general cannabis use; thus, they are also illegal for recreational purposes in Sandness and the broader Norwegian context. On the other hand, CBD (Cannabidiol) is legal, provided it contains less than 0.2% THC, aligning with Norway's stringent control over psychoactive substances. Despite a global trend towards more lenient cannabis laws, Norway, including Sandness, maintains a conservative stance, mirroring the country's overall cautious approach towards drugs and emphasizing public health and safety."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "illegal"
+            },
+            "delta9": {
+              "legalStatus": "illegal"
+            },
+            "delta8": {
+              "legalStatus": "illegal"
+            },
+            "cbd": {
+              "legalStatus": "legal",
+              "quantity": "containing 0.0% THC"
+            }
+          }
+        },
+        {
+          "name": "Stavanger",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "b102d9f59b63",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b7548da2a0ad0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Stavanger, Norway, marijuana laws reflect the national stance, which strictly prohibits recreational cannabis use. This includes possession, cultivation, and distribution of marijuana, with penalties ranging from fines for minor possession to imprisonment for more severe offenses. Medical cannabis, on the other hand, is legal but under a tightly controlled system; it requires a prescription from an authorized healthcare provider and is typically reserved for specific medical conditions. The Norwegian healthcare system allows for the use of certain cannabis-based medications under stringent regulations, reflecting a cautious approach to medical marijuana amidst ongoing debates and changing attitudes towards cannabis use globally."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "2e3094abf11a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5405f9f783940",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Regarding specific cannabis compounds, such as Delta-8 and Delta-9 THC, and THCA, these are also governed by the same strict regulations as general cannabis, meaning they are illegal for recreational use in Stavanger and throughout Norway. CBD (Cannabidiol), however, is legal as long as it contains less than 0.2% THC, aligning with Norwegian laws aimed at preventing psychoactive effects while allowing for the health benefits associated with CBD. While the legal landscape for cannabis, including derivatives like CBD, remains conservative in Norway, evolving public opinions and ongoing legal discussions may influence future regulations."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "illegal"
+            },
+            "delta9": {
+              "legalStatus": "illegal"
+            },
+            "delta8": {
+              "legalStatus": "illegal"
+            },
+            "cbd": {
+              "legalStatus": "legal",
+              "quantity": "containing 0.0% THC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Telemark",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "f6326177ee3e",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "4fd89f5cafcf0",
+                "_type": "span",
+                "marks": [],
+                "text": "In Telemark, Norway, marijuana legality aligns with national regulations, strictly prohibiting recreational use. This includes possession, cultivation, and distribution of cannabis, punishable by law with varying degrees of severity based on the amount and intent, ranging from fines to imprisonment. However, Norway recognizes the medicinal use of cannabis under stringent conditions. Medical cannabis can be prescribed by qualified health professionals for specific conditions, though the system is tightly regulated and access remains limited. This legal framework reflects Norway’s cautious stance on drugs, balancing public health concerns with the therapeutic potential of cannabis under controlled circumstances."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "e2bbf26460d8",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "8769d57b89240",
+                "_type": "span",
+                "marks": [],
+                "text": "As for specific cannabinoids like Delta-8, Delta-9 THC, and THCA, they are encompassed within the broader legal framework that bans recreational cannabis, meaning their use, possession, and sale for non-medical purposes are also illegal in Telemark. Conversely, CBD (Cannabidiol), which is non-psychoactive, is legally permissible provided it contains less than 0.2% THC. This distinction allows for the use of CBD products that comply with the legal threshold, catering to consumers seeking the health benefits without the psychoactive effects. While global trends are evolving towards more relaxed cannabis laws, Norway, including Telemark, maintains rigorous control over cannabis and its derivatives, reflecting a broader preventive approach towards drug use."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "illegal"
+        },
+        "delta9": {
+          "legalStatus": "illegal"
+        },
+        "delta8": {
+          "legalStatus": "illegal"
+        },
+        "cbd": {
+          "legalStatus": "legal",
+          "quantity": "containing 0.0% THC"
+        }
+      },
+      "locality": [
+        {
+          "name": "Porsgrunn",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "5f42ab394bed",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3858692312060",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Porsgrunn, Norway, the legality of marijuana and related products is highly restrictive, aligning with the country's overall approach to cannabis. CBD is legal in Porsgrunn, but only if it contains 0.00% THC, meaning full-spectrum CBD products are not permitted. On the other hand, THC in any form, including delta-8, delta-9, and THCA, is considered illegal in Norway. The possession, sale, or use of products containing even trace amounts of THC can result in legal consequences, with penalties ranging from fines to prison sentences."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "b669eccfaf22",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6328990e284d0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Regarding the specific cannabinoids, the laws in Porsgrunn closely mirror the national regulations. Delta-8 and delta-9 THC are treated similarly, with both being tightly regulated and restricted due to their psychoactive properties. THCA is also likely to be subject to the same regulations as THC, as it can potentially convert into the psychoactive compound. CBD remains legal in Porsgrunn, but only if it strictly adheres to the 0.00% THC requirement set by Norwegian law."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "illegal"
+            },
+            "delta9": {
+              "legalStatus": "illegal"
+            },
+            "delta8": {
+              "legalStatus": "illegal"
+            },
+            "cbd": {
+              "legalStatus": "legal",
+              "quantity": "containing 0.0% THC"
+            }
+          }
+        },
+        {
+          "name": "Skien",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "10375fa8073b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "425f6f0d729a0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Skien, Norway, the legality of marijuana and related products is highly restrictive, aligning with the country's overall approach to cannabis. CBD is legal in Skien, but only if it contains 0.00% THC, meaning full-spectrum CBD products are not permitted. On the other hand, THC in any form, including delta-8, delta-9, and THCA, is considered illegal in Norway. The possession, sale, or use of products containing even trace amounts of THC can result in legal consequences, with penalties ranging from fines to prison sentences."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "29fcbf8d46bc",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8b43f52b5b0f0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Regarding the specific cannabinoids, the laws in Skien closely mirror the national regulations. Delta-8 and delta-9 THC are treated similarly, with both being tightly regulated and restricted due to their psychoactive properties. THCA is also likely to be subject to the same regulations as THC, as it can potentially convert into the psychoactive compound. CBD remains legal in Skien, but only if it strictly adheres to the 0.00% THC requirement set by Norwegian law."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "illegal"
+            },
+            "delta9": {
+              "legalStatus": "illegal"
+            },
+            "delta8": {
+              "legalStatus": "illegal"
+            },
+            "cbd": {
+              "legalStatus": "legal",
+              "quantity": "containing 0.0% THC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trøndelag",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "7d65e65049be",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "a6b21d6c10130",
+                "_type": "span",
+                "marks": [],
+                "text": "In Trøndelag, Norway, as throughout the country, the laws on marijuana strictly prohibit its recreational use. This encompasses the possession, cultivation, and distribution of cannabis, with penalties dependent on the amount and specific circumstances, potentially ranging from fines to imprisonment. Despite ongoing debates and shifts in public opinion regarding cannabis policy, Norway's firm stance on drug control remains unchanged. However, the use of medical cannabis is permitted within a tightly regulated framework, allowing for prescription-based access for qualifying conditions, under strict oversight by healthcare professionals."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "d147343b2596",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "26db0e61c26e0",
+                "_type": "span",
+                "marks": [],
+                "text": "Regarding specific cannabinoids like Delta-8, Delta-9 THC, and THCA, these substances are also illegal for recreational use in Trøndelag, adhering to the national prohibition on psychoactive cannabis components. In contrast, CBD (Cannabidiol), recognized for its non-psychoactive properties, is legal as long as it contains less than 0.2% THC. This regulation permits the use of CBD for potential health benefits without the intoxicating effects, aligning with Norway’s cautious yet evolving approach to cannabis derivatives. While global perspectives on cannabis continue to evolve, Norwegian laws, including those in Trøndelag, remain stringent, reflecting the country's comprehensive drug prevention and public health strategy."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "illegal"
+        },
+        "delta9": {
+          "legalStatus": "illegal"
+        },
+        "delta8": {
+          "legalStatus": "illegal"
+        },
+        "cbd": {
+          "legalStatus": "legal",
+          "quantity": "containing 0.0% THC"
+        }
+      },
+      "locality": [
+        {
+          "name": "Trondheim",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "2ecbc1456256",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "666d6e4cb8130",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Trondheim, Norway, the legality of marijuana and related products is highly restrictive. Norway has adopted a strict stance on cannabis, with CBD and THC-containing products facing tight regulations."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "8fe101e2ad74",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1b4acbb277170",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "CBD is legal in Trondheim, but only if it contains 0.00% THC, meaning full-spectrum CBD products are not permitted[1][2]. On the other hand, THC in any form, including delta-8, delta-9, and THCA, is considered illegal in Norway. The possession, sale, or use of products containing even trace amounts of THC can result in legal consequences, with penalties ranging from fines to prison sentences."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "illegal"
+            },
+            "delta9": {
+              "legalStatus": "illegal"
+            },
+            "delta8": {
+              "legalStatus": "illegal"
+            },
+            "cbd": {
+              "legalStatus": "legal",
+              "quantity": "containing 0.0% THC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Vestland",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "676cc6e0df6b",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "a73b813ae9ef0",
+                "_type": "span",
+                "marks": [],
+                "text": "In Vestland, Norway, the legality of marijuana follows the national legislation, under which recreational use is strictly illegal. This encompasses the possession, cultivation, and distribution of cannabis, with enforcement varying from fines for minor offenses to imprisonment for more significant violations. Despite a global trend towards liberalizing marijuana laws, Norway maintains stringent controls, with ongoing debates around drug policy reform yet to yield substantial changes. Conversely, medical cannabis is permitted within a highly regulated framework, where it's available to patients with certain conditions, but only under prescription from a qualified medical professional, reflecting a careful balance between recognizing the medicinal benefits and controlling misuse."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "c00f9fe75cf3",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "784c7faaaa950",
+                "_type": "span",
+                "marks": [],
+                "text": "Specifically, compounds such as Delta-8, Delta-9 THC, and THCA, which are derivatives of the cannabis plant, fall under the same legal restrictions as general cannabis products in Vestland and across Norway, meaning their recreational use is illegal. On the other hand, CBD (Cannabidiol), which does not produce psychoactive effects, is legal provided it contains less than 0.2% THC. This exception allows for the legal use of certain CBD products, aligning with Norway's cautious stance towards substances that may impact public health and safety. While Norway’s approach to cannabis and its derivatives remains conservative, it reflects a broader commitment to drug prevention and public health, consistent across regions including Vestland."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "illegal"
+        },
+        "delta9": {
+          "legalStatus": "illegal"
+        },
+        "delta8": {
+          "legalStatus": "illegal"
+        },
+        "cbd": {
+          "legalStatus": "legal",
+          "quantity": "containing 0.0% THC"
+        }
+      },
+      "locality": [
+        {
+          "name": "Bergen",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "d182874c1f03",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "78b67d84149d0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Bergen, Norway, the legality of marijuana and related products is highly restrictive. Norway has adopted a strict stance on cannabis, with CBD and THC products facing tight regulations. CBD is legal in Norway, but only if it contains 0.00% THC, meaning full-spectrum CBD products are not permitted. On the other hand, THC in any form, including delta-8, delta-9, and THCA, is considered illegal in Norway. The possession, sale, or use of products containing even trace amounts of THC can result in legal consequences."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "8638fa88a784",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f530d4dbced20",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Regarding delta-8, delta-9, THCA, and CBD in Bergen, Norway, the laws closely align with the country's overall approach to cannabis-derived substances. Delta-8 and delta-9 THC are treated similarly, with both being tightly regulated and restricted due to their psychoactive properties. THCA is also likely to be subject to the same regulations as THC, as it can potentially convert into the psychoactive compound. CBD remains legal in Bergen, but only if it strictly adheres to the 0.00% THC requirement set by Norwegian law."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "illegal"
+            },
+            "delta9": {
+              "legalStatus": "illegal"
+            },
+            "delta8": {
+              "legalStatus": "illegal"
+            },
+            "cbd": {
+              "legalStatus": "legal",
+              "quantity": "containing 0.0% THC"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

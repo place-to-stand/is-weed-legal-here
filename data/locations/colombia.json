@@ -1,0 +1,12 @@
+{
+  "name": "Colombia",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "22 grams"
+    }
+  }
+}

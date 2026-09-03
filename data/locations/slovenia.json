@@ -1,0 +1,11 @@
+{
+  "name": "Slovenia",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized"
+    }
+  }
+}

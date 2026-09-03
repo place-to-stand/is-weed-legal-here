@@ -1,0 +1,12 @@
+{
+  "name": "Saint Kitts and Nevis",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "15 grams"
+    }
+  }
+}

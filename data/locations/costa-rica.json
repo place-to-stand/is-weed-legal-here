@@ -1,0 +1,709 @@
+{
+  "name": "Costa Rica",
+  "labels": {
+    "administrativeAreaLevel1": {
+      "plural": "Provinces",
+      "singular": "Province"
+    },
+    "locality": {
+      "plural": "Cities",
+      "singular": "City"
+    }
+  },
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "ef5846026ea8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "65ae77833ecf0",
+            "_type": "span",
+            "marks": [],
+            "text": "In Costa Rica, the legal status of marijuana is nuanced. While the consumption of cannabis is nominally illegal, personal use does not carry criminal penalties. The sale and production of marijuana on a large scale are illegal under Narcotics Law No. 8204, but interpretations suggest that personal consumption in small doses may be permissible in private settings. As of March 2022, medicinal cannabis has been approved for therapeutic and medicinal use, marking a significant step towards legalization. The laws in Costa Rica regarding marijuana are somewhat vague, with enforcement varying and police typically confiscating drugs for possession of small dosages while larger amounts can lead to formal arrests. Recreational use of cannabis remains prohibited, but the country has made strides in legalizing medical marijuana and hemp for specific purposes."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized"
+    },
+    "thca": {
+      "legalStatus": "unclear"
+    },
+    "delta9": {
+      "legalStatus": "unclear"
+    },
+    "delta8": {
+      "legalStatus": "unclear"
+    },
+    "cbd": {
+      "legalStatus": "legal"
+    }
+  },
+  "administrativeAreaLevel1": [
+    {
+      "name": "Alajuela Province",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "655e38daf3bc",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "e6a7a82a76e10",
+                "_type": "span",
+                "marks": [],
+                "text": "In Alajuela Province, Costa Rica, the legality of marijuana is subject to the country's broader laws on cannabis. While Costa Rica decriminalized personal marijuana use in 2018, the cultivation, sale, and trafficking of cannabis remain illegal under General Health Law 5395 and Narcotics Law No. 8204. Despite the decriminalization for personal use, strict regulations are in place, and large-scale usage can still lead to imprisonment. As for Delta-8, Delta-9, THCA, and CBD, these compounds fall under the umbrella of cannabis regulations in Costa Rica. The country has seen a surge in legal CBD products with THC content below 0.03%, available in local pharmacies and airports. However, the laws surrounding these specific compounds are evolving, and travelers should stay informed about the latest regulations to ensure compliance during their visit to Costa Rica."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Alajuela",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "f767e13e3833",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1377bbe740830",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Alajuela, Costa Rica, the legality of marijuana is subject to the country's laws on cannabis. While personal marijuana use is decriminalized, the cultivation, sale, and trafficking of cannabis remain illegal under General Health Law 5395 and Narcotics Law No. 8204. The legal framework surrounding cannabis in Costa Rica can be intricate, with significant penalties for involvement in large-scale cannabis activities. It is essential for individuals to be well-informed about the laws to avoid any legal issues related to marijuana use in Alajuela."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "4e38f4990574",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "de5d72da6a160",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Regarding Delta-8, Delta-9, THCA, and CBD in Costa Rica, these compounds are part of the evolving cannabis regulations in the country. Legal CBD products with THC content below 0.03% are available in local pharmacies and airports. The recent legalization of medical marijuana in Costa Rica allows for the cultivation, harvesting, processing, storage, and transport of medical marijuana and hemp under specific regulations. Travelers should stay updated on the latest regulations to ensure compliance with the laws regarding these specific compounds during their time in Costa Rica."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cartago Province",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "b81fa92a993b",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "575dca78f6930",
+                "_type": "span",
+                "marks": [],
+                "text": "In Cartago Province, Costa Rica, the legality of marijuana aligns with the country's broader stance on cannabis. While personal marijuana use is decriminalized in Costa Rica, cultivation, sale, and trafficking of cannabis remain illegal under General Health Law 5395 and Narcotics Law No. 8204. The laws surrounding cannabis in Costa Rica are subject to strict regulations, with penalties including imprisonment for large-scale usage. As for Delta-8, Delta-9, THCA, and CBD in Costa Rica, these compounds fall under the umbrella of evolving cannabis regulations. The country has seen a rise in legal CBD products with THC content below 0.03%, available in local pharmacies and airports. Travelers should stay informed about the latest regulations to ensure compliance with the laws regarding these specific compounds during their time in Costa Rica."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Cartago",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "a6e721186751",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b0f4b68e304f0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Cartago, Costa Rica, the legal status of marijuana is aligned with the country's broader laws on cannabis. While personal consumption of marijuana is decriminalized, the sale and production of cannabis on a large scale remain illegal under General Health Law 5395 and Narcotics Law No. 8204. The laws surrounding cannabis in Costa Rica are subject to strict regulations, with penalties including imprisonment for involvement in significant cannabis activities."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "3a6753ff147b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b8cdc6dc20630",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Turning to Delta-8, Delta-9, THCA, and CBD in Costa Rica, these compounds are part of the evolving cannabis regulations in the country. Legal CBD products with THC content below 0.03% are available in local pharmacies and airports. The recent legalization of medical marijuana in Costa Rica allows for the cultivation, harvesting, processing, storage, and transport of medical marijuana and hemp under specific regulations. Individuals seeking access to medical cannabis need permits and must comply with national health institutions' inspections. It is crucial for travelers to stay informed about the latest regulations to ensure compliance with the laws regarding these specific compounds during their time in Costa Rica."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Guanacaste Province",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "7f1d0c6ea260",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "4fde1cba804e0",
+                "_type": "span",
+                "marks": [],
+                "text": "In Guanacaste Province, Costa Rica, the legality of marijuana reflects the country's broader stance on cannabis. While personal marijuana use is decriminalized in Costa Rica, the cultivation, sale, and trafficking of cannabis remain illegal under General Health Law 5395 and Narcotics Law No. 8204. The laws surrounding cannabis in Costa Rica are subject to strict regulations, with penalties including imprisonment for large-scale usage. Moving on to Delta-8, Delta-9, THCA, and CBD in Costa Rica, these compounds are part of the evolving cannabis regulations in the country. Legal CBD products with THC content below 0.03% are available in local pharmacies and airports. Travelers should stay informed about the latest regulations to ensure compliance with the laws regarding these specific compounds during their time in Costa Rica."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Liberia",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "9b1a73862ee3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "af627b8634910",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Liberia, Costa Rica, the legal status of marijuana reflects the broader laws on cannabis in the country. Personal consumption of marijuana is decriminalized, meaning possession is generally acceptable, but sales and large-scale production remain criminal offenses. The quality and availability of marijuana in Liberia can vary, with some reports indicating its presence in local bars and dance clubs along with its distinct smell on the famous beaches. While personal use may not lead to criminal penalties, strict regulations are in place regarding the sale and trafficking of cannabis under General Health Law 5395 and Narcotics Law No. 8204."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "34c95fd9bf49",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8a77a20209630",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Turning to Delta-8, Delta-9, THCA, and CBD in Costa Rica, these compounds are part of the evolving cannabis regulations in the country. Legal CBD products with THC content below 0.03% are available in local pharmacies and airports. The recent legalization of medical marijuana in Costa Rica allows for the cultivation, harvesting, processing, storage, and transport of medical marijuana and hemp under specific regulations. Individuals seeking access to medical cannabis need permits and must comply with national health institutions' inspections. It's crucial for travelers to stay informed about the latest regulations to ensure compliance with the laws regarding these specific compounds during their time in Costa Rica."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heredia Province",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "e0af4d2032a9",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "bb74be3e2ff90",
+                "_type": "span",
+                "marks": [],
+                "text": "In Heredia Province, Costa Rica, the legality of marijuana is in line with the country's broader regulations on cannabis. While personal consumption of marijuana is not subject to criminal penalties, the sale and production of marijuana on a large scale are illegal under Narcotics Law No. 8204. The laws in Costa Rica regarding marijuana are somewhat vague, with interpretations suggesting that personal consumption in small doses may be permissible in private settings. Police enforcement in Costa Rica typically confiscates drugs for possession of small dosages, while larger amounts can lead to formal arrests."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "cc76ce5470bc",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "d307479680480",
+                "_type": "span",
+                "marks": [],
+                "text": "Regarding Delta-8, Delta-9, THCA, and CBD in Costa Rica, these compounds are part of the evolving cannabis regulations in the country. Legal CBD products with THC content below 0.03% are available in local pharmacies and airports. The recent legalization of medical marijuana in Costa Rica allows for the cultivation, harvesting, processing, storage, and transport of medical marijuana and hemp under specific regulations. Individuals seeking access to medical cannabis need permits and must comply with national health institutions' inspections. The law does not address regulations for tourists with medical licenses from their home countries, and unlicensed cultivators could face severe penalties for illegal cultivation or sale of cannabis."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "unclear"
+        }
+      },
+      "locality": [
+        {
+          "name": "Heredia",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "2479cb1057be",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "04286487d3100",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Heredia, Costa Rica, the legal landscape surrounding marijuana is shaped by the country's cannabis regulations. While personal marijuana use is decriminalized, the cultivation, sale, and trafficking of cannabis are prohibited under General Health Law 5395 and Narcotics Law No. 8204. These laws aim to control the distribution and production of marijuana in Heredia, with strict penalties, including imprisonment for involvement in large-scale cannabis activities."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "b5cd277c44f3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d534e6d602360",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Regarding Delta-8, Delta-9, THCA, and CBD in Costa Rica, these compounds are part of the evolving cannabis regulations. Legal CBD products with THC content below 0.03% can be found in local pharmacies and airports. With the recent legalization of medical marijuana in Costa Rica, there are specific regulations governing the cultivation, processing, and transport of medical marijuana and hemp. Travelers are advised to stay updated on the latest regulations to ensure compliance with the laws concerning these specific compounds while in Costa Rica."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Limón Province",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "fc9ad2c723a2",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "8868d6d978110",
+                "_type": "span",
+                "marks": [],
+                "text": "In Limón Province, Costa Rica, the legality of marijuana is governed by the country's laws on cannabis. While personal use of marijuana is decriminalized in Costa Rica, the cultivation, sale, and trafficking of cannabis remain illegal under General Health Law 5395 and Narcotics Law No. 8204. The laws surrounding cannabis in Costa Rica are stringent, with penalties including imprisonment for involvement in large-scale cannabis activities."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "7df5843d6c83",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "b2380c80767a0",
+                "_type": "span",
+                "marks": [],
+                "text": "Turning to Delta-8, Delta-9, THCA, and CBD in Costa Rica, these compounds are part of the evolving cannabis regulations in the country. Legal CBD products with THC content below 0.03% are available in local pharmacies and airports. The recent legalization of medical marijuana in Costa Rica allows for the cultivation, harvesting, processing, storage, and transport of medical marijuana and hemp under specific regulations. Individuals seeking access to medical cannabis need permits and must comply with national health institutions' inspections. It's important for travelers to stay informed about the latest regulations to ensure compliance with the laws regarding these specific compounds during their time in Costa Rica."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Limon",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "985d3cfcbbfe",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8ec27060a0220",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Limon, Costa Rica, the legal stance on marijuana presents a nuanced perspective. While the use of cannabis is technically illegal, personal consumption does not typically result in criminal repercussions. However, the sale of marijuana remains a criminal offense under General Health Law 5395 and Narcotics Law No. 8204. The laws surrounding marijuana in Costa Rica are somewhat open to interpretation, with indications that small-scale personal use may be tolerated in private settings. Law enforcement in Costa Rica tends to seize drugs for minor possession but may resort to arrests for larger quantities. The recent approval of medicinal cannabis in Costa Rica signifies progress towards broader legalization."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "bc44cca37dda",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0a6a975d91260",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Regarding Delta-8, Delta-9, THCA, and CBD in Costa Rica, these compounds are integral to the evolving cannabis regulations in the country. Legal CBD products containing less than 0.03% THC are accessible in local pharmacies and airports. With the recent legalization of medical marijuana in Costa Rica, there are specific guidelines governing the cultivation, processing, and transportation of medical marijuana and hemp. Staying abreast of the latest regulations is essential for compliance with the laws concerning these specific compounds while in Costa Rica."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Puntarenas Province",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "dfed3ea44759",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "66aecc8d9a4a0",
+                "_type": "span",
+                "marks": [],
+                "text": "In Puntarenas Province, Costa Rica, the legal status of marijuana aligns with the country's broader laws on cannabis. Personal consumption of marijuana is not subject to criminal penalties, but the sale and production of marijuana on a large scale are illegal under General Health Law 5395 and Narcotics Law No. 8204. The laws in Costa Rica regarding marijuana are somewhat ambiguous, with interpretations suggesting that personal consumption in small doses may be permissible in private settings. Police enforcement typically confiscates drugs for possession of small dosages, while larger amounts can lead to formal arrests. As of March 2022, medicinal cannabis has been approved in Costa Rica for therapeutic and medicinal use under specific regulations."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Puntarenas",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "10420c8719f0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "32fb3d709f570",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Puntarenas, Costa Rica, marijuana is illegal, with strict laws against large-scale activities. While personal use is decriminalized, significant cultivation and sales are prohibited under General Health Law 5395 and Narcotics Law No. 8204. Regarding Delta-8, Delta-9, THCA, and CBD in Costa Rica, these compounds are part of evolving regulations. Legal CBD products with low THC content are available in pharmacies and airports. The recent legalization of medical marijuana allows for regulated cultivation and use, emphasizing the importance of staying informed on current laws for compliance during travel in Costa Rica."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "San José Province",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "9729d8efa47f",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "322edaa807f50",
+                "_type": "span",
+                "marks": [],
+                "text": "In San José Province, Costa Rica, the legal status of marijuana aligns with the country's broader laws on cannabis. Personal consumption of marijuana is not subject to criminal penalties, but the sale and production of marijuana on a large scale are illegal under General Health Law 5395 and Narcotics Law No. 8204. The laws in Costa Rica regarding marijuana are somewhat ambiguous, with interpretations suggesting that personal consumption in small doses may be permissible in private settings. Police enforcement typically confiscates drugs for possession of small dosages, while larger amounts can lead to formal arrests. As of March 2022, medicinal cannabis has been approved in Costa Rica for therapeutic and medicinal use under specific regulations."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "San José",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "bd91a603b291",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "faf6617741df0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In San José, Costa Rica, personal marijuana use is decriminalized, but large-scale cultivation and sales are illegal. The country's laws allow for small doses in private settings but prohibit significant production under General Health Law 5395 and Narcotics Law No. 8204. Regarding Delta-8, Delta-9, THCA, and CBD in Costa Rica, these compounds are regulated with legal CBD products available with low THC content. The recent approval of medical marijuana in Costa Rica allows for controlled cultivation and usage, emphasizing the need to stay updated on regulations for compliance while in the country."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

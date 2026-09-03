@@ -1,0 +1,11 @@
+{
+  "name": "Ghana",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    }
+  }
+}

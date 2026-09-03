@@ -1,0 +1,579 @@
+{
+  "name": "Finland",
+  "labels": {
+    "administrativeAreaLevel1": {
+      "plural": "Regions",
+      "singular": "Region"
+    },
+    "locality": {
+      "plural": "Cities",
+      "singular": "City"
+    }
+  },
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "d85c45083cae",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "205b06115e610",
+            "_type": "span",
+            "marks": [],
+            "text": "In Finland, marijuana laws are quite strict, with cannabis classified as an illegal substance. Possession, use, and distribution of cannabis can result in fines or even imprisonment. However, the country is slowly opening up to the medicinal uses of cannabis, particularly focusing on compounds like THCA (tetrahydrocannabinolic acid) and Delta-8 and Delta-9 THC. THCA, which is non-psychoactive until heated, has gained attention for its potential therapeutic benefits without the high associated with THC. Delta-8 and Delta-9 THC are both psychoactive compounds, but Delta-8 is known for being less potent and offering a milder experience compared to Delta-9, the main active ingredient in cannabis."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "bede522fc27a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "9fb7f8694eb90",
+            "_type": "span",
+            "marks": [],
+            "text": "There is a growing interest in the potential health benefits of these compounds in Finland. While recreational use remains illegal, the medical community is increasingly exploring cannabis-derived treatments for various conditions. This shift is part of a broader global trend recognizing the therapeutic potential of cannabis. As research continues and public opinion evolves, there might be more significant changes in Finland's cannabis laws in the future, reflecting a more nuanced understanding of its benefits and risks."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    },
+    "thca": {
+      "legalStatus": "unclear"
+    },
+    "delta9": {
+      "legalStatus": "unclear"
+    },
+    "delta8": {
+      "legalStatus": "unclear"
+    },
+    "cbd": {
+      "legalStatus": "legal"
+    }
+  },
+  "administrativeAreaLevel1": [
+    {
+      "name": "Central Finland",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Jyväskylä",
+          "isWeedLegalHere": {
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kanta-Häme",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      }
+    },
+    {
+      "name": "Kymenlaakso",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      }
+    },
+    {
+      "name": "Lappi",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      }
+    },
+    {
+      "name": "North Karelia",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      }
+    },
+    {
+      "name": "North Ostrobothnia",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Oulu",
+          "isWeedLegalHere": {
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "North Savo",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      }
+    },
+    {
+      "name": "Ostrobothnia",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      }
+    },
+    {
+      "name": "Päijät-Häme",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Lahti",
+          "isWeedLegalHere": {
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pirkanmaa",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      }
+    },
+    {
+      "name": "Satakunta",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      }
+    },
+    {
+      "name": "South Karelia",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      }
+    },
+    {
+      "name": "South Savo",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      }
+    },
+    {
+      "name": "Southwest Finland",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      }
+    },
+    {
+      "name": "South Ostrobothnia",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      }
+    },
+    {
+      "name": "Uusimaa",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "unclear"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Espoo",
+          "isWeedLegalHere": {
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        },
+        {
+          "name": "Helsinki",
+          "isWeedLegalHere": {
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        },
+        {
+          "name": "Vantaa",
+          "isWeedLegalHere": {
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "unclear"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

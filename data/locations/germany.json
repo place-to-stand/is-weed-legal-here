@@ -1,0 +1,54 @@
+{
+  "name": "Germany",
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "977078ffd831",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "e21fadc52d5b0",
+            "_type": "span",
+            "marks": [],
+            "text": "In Germany, cannabis laws have recently undergone significant changes, with the legalization of recreational cannabis for adults aged 18 and above. The Cannabis Act, set to come into force on April 1, 2024, allows for possession of up to 25 grams in public and up to 50 grams in private spaces. Additionally, adults will be permitted to cultivate up to three cannabis plants at home. While the law aims to decriminalize possession and use, strict regulations will make purchasing cannabis challenging, with licensed sales not permitted initially, leading to a reliance on personal cultivation or joining non-profit cannabis social clubs for access."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "21a8b7148e83",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "385dfc0e5f480",
+            "_type": "span",
+            "marks": [],
+            "text": "When delving into specific cannabis derivatives like Delta-8 and Delta-9 THC, as well as THCA and CBD in Germany, the legal landscape remains intricate. While medical cannabis has been available for seriously ill patients since 2017, recreational users face limitations on purchasing options due to the absence of licensed stores. The legislation emphasizes strict regulation to curb black market activities and protect public health. As the country navigates these changes, discussions around the benefits of CBD and other derivatives continue amidst evolving regulations that aim to balance access with control over cannabis-related products."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "legal",
+      "quantity": "25-50 grams"
+    },
+    "thca": {
+      "legalStatus": "unclear"
+    },
+    "delta9": {
+      "legalStatus": "unclear"
+    },
+    "delta8": {
+      "legalStatus": "unclear"
+    },
+    "cbd": {
+      "legalStatus": "legal"
+    }
+  }
+}

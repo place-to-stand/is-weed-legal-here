@@ -1,0 +1,53 @@
+{
+  "name": "Brazil",
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "ab06de99f3c6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "1fec9ee0b2730",
+            "_type": "span",
+            "marks": [],
+            "text": "In Brazil, marijuana laws are quite strict, with cannabis still classified as an illegal substance. Possession of small amounts for personal use is decriminalized, meaning you won't go to jail for having a small stash. Instead, you might face community service or be required to attend an educational program. However, selling or cultivating marijuana remains a serious criminal offense with heavy penalties, including long prison sentences."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "8bbae823cd13",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f339b703fac30",
+            "_type": "span",
+            "marks": [],
+            "text": "Despite these strict laws, there's a growing movement in Brazil pushing for marijuana reform. Advocates are calling for the legalization of medical marijuana and even the decriminalization of recreational use. The success of cannabis legalization in other countries is fueling local discussions, and more people are becoming open to the idea of changing Brazil's marijuana policies. While the legal landscape remains tough, the conversation around cannabis is definitely evolving."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    },
+    "thca": {
+      "legalStatus": "unknown"
+    },
+    "delta9": {
+      "legalStatus": "unknown"
+    },
+    "delta8": {
+      "legalStatus": "unknown"
+    },
+    "cbd": {
+      "legalStatus": "legal"
+    }
+  }
+}

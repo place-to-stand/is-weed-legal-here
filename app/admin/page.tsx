@@ -1,6 +1,6 @@
 import Heading from '../components/Heading'
 import { IIHD_country, LegalStatus, LegalStatusMedicinal } from '../types'
-import { cmsFetch } from '../data/client'
+import { getAllCountries } from '../data/db'
 
 type TableRow = {
   country: string
@@ -26,63 +26,57 @@ const flattenLegalityData = (legalityData: IIHD_country[]) => {
       quantity: country.isWeedLegalHere?.recreational?.quantity,
     })
 
-    if (country.administrativeAreaLevel1?.children?.length) {
-      country.administrativeAreaLevel1.children.forEach(
-        administrativeAreaLevel1 => {
-          tableRows.push({
-            country: country.name,
-            administrativeAreaLevel1: administrativeAreaLevel1.name,
-            administrativeAreaLevel2: undefined,
-            locality: undefined,
-            medicinal:
-              administrativeAreaLevel1.isWeedLegalHere?.medicinal?.legalStatus,
-            recreational:
-              administrativeAreaLevel1.isWeedLegalHere?.recreational
-                ?.legalStatus,
-            quantity:
-              administrativeAreaLevel1.isWeedLegalHere?.recreational?.quantity,
-          })
+    if (country.administrativeAreaLevel1?.length) {
+      country.administrativeAreaLevel1.forEach(administrativeAreaLevel1 => {
+        tableRows.push({
+          country: country.name,
+          administrativeAreaLevel1: administrativeAreaLevel1.name,
+          administrativeAreaLevel2: undefined,
+          locality: undefined,
+          medicinal:
+            administrativeAreaLevel1.isWeedLegalHere?.medicinal?.legalStatus,
+          recreational:
+            administrativeAreaLevel1.isWeedLegalHere?.recreational?.legalStatus,
+          quantity:
+            administrativeAreaLevel1.isWeedLegalHere?.recreational?.quantity,
+        })
 
-          if (
-            administrativeAreaLevel1.administrativeAreaLevel2?.children?.length
-          ) {
-            administrativeAreaLevel1.administrativeAreaLevel2.children.forEach(
-              administrativeAreaLevel2 => {
-                tableRows.push({
-                  country: country.name,
-                  administrativeAreaLevel1: administrativeAreaLevel1.name,
-                  administrativeAreaLevel2: administrativeAreaLevel2.name,
-                  locality: undefined,
-                  medicinal:
-                    administrativeAreaLevel2.isWeedLegalHere?.medicinal
-                      ?.legalStatus,
-                  recreational:
-                    administrativeAreaLevel2.isWeedLegalHere?.recreational
-                      ?.legalStatus,
-                  quantity:
-                    administrativeAreaLevel2.isWeedLegalHere?.recreational
-                      ?.quantity,
-                })
-              }
-            )
-          }
-
-          if (administrativeAreaLevel1.locality?.children?.length) {
-            administrativeAreaLevel1.locality.children.forEach(locality => {
+        if (administrativeAreaLevel1.administrativeAreaLevel2?.length) {
+          administrativeAreaLevel1.administrativeAreaLevel2.forEach(
+            administrativeAreaLevel2 => {
               tableRows.push({
                 country: country.name,
                 administrativeAreaLevel1: administrativeAreaLevel1.name,
-                administrativeAreaLevel2: undefined,
-                locality: locality.name,
-                medicinal: locality.isWeedLegalHere?.medicinal?.legalStatus,
+                administrativeAreaLevel2: administrativeAreaLevel2.name,
+                locality: undefined,
+                medicinal:
+                  administrativeAreaLevel2.isWeedLegalHere?.medicinal
+                    ?.legalStatus,
                 recreational:
-                  locality.isWeedLegalHere?.recreational?.legalStatus,
-                quantity: locality.isWeedLegalHere?.recreational?.quantity,
+                  administrativeAreaLevel2.isWeedLegalHere?.recreational
+                    ?.legalStatus,
+                quantity:
+                  administrativeAreaLevel2.isWeedLegalHere?.recreational
+                    ?.quantity,
               })
-            })
-          }
+            }
+          )
         }
-      )
+
+        if (administrativeAreaLevel1.locality?.length) {
+          administrativeAreaLevel1.locality.forEach(locality => {
+            tableRows.push({
+              country: country.name,
+              administrativeAreaLevel1: administrativeAreaLevel1.name,
+              administrativeAreaLevel2: undefined,
+              locality: locality.name,
+              medicinal: locality.isWeedLegalHere?.medicinal?.legalStatus,
+              recreational: locality.isWeedLegalHere?.recreational?.legalStatus,
+              quantity: locality.isWeedLegalHere?.recreational?.quantity,
+            })
+          })
+        }
+      })
     }
   })
 
@@ -109,42 +103,8 @@ const TH_CLASS_NAME =
 
 const TD_CLASS_NAME = 'px-6 py-4 text-sm border-r-2 border-slate-700'
 
-const ALL_DATA_QUERY = `
-  *[_type == 'IIHD_country'] | order(name) {
-    name,
-    isWeedLegalHere,
-    labels,
-    administrativeAreaLevel1 {
-      children[]-> {
-        name,
-        isWeedLegalHere,
-        administrativeAreaLevel2 {
-          children[]-> {
-            name,
-            isWeedLegalHere
-          }
-        },
-        locality {
-          children[]-> {
-            name,
-            isWeedLegalHere
-          }
-        }
-      }
-    }
-  }
-`
-
 export default async function Admin() {
-  const data = await cmsFetch<IIHD_country[]>({
-    query: ALL_DATA_QUERY,
-    tags: [
-      'IIHD_country',
-      'IIHD_administrativeAreaLevel1',
-      'IIHD_administrativeAreaLevel2',
-      'IIHD_locality',
-    ],
-  })
+  const data = await getAllCountries()
 
   const tableRows = flattenLegalityData(data)
 

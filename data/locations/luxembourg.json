@@ -1,0 +1,11 @@
+{
+  "name": "Luxembourg",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "legal"
+    }
+  }
+}

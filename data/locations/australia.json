@@ -1,0 +1,30 @@
+{
+  "name": "Australia",
+  "labels": {
+    "administrativeAreaLevel1": {
+      "plural": "States and Territories",
+      "singular": "State or Territory"
+    }
+  },
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    }
+  },
+  "administrativeAreaLevel1": [
+    {
+      "name": "Australian Capital Territory",
+      "isWeedLegalHere": {
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "legal"
+        }
+      }
+    }
+  ]
+}

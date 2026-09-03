@@ -1,0 +1,11 @@
+{
+  "name": "Guinea-Bissau",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    }
+  }
+}

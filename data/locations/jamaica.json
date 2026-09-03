@@ -1,0 +1,12 @@
+{
+  "name": "Jamaica",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "2 ounces"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "South Africa",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "legal"
+    }
+  }
+}

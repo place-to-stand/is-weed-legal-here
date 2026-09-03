@@ -1,0 +1,12 @@
+{
+  "name": "Bolivia",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "50 grams"
+    }
+  }
+}

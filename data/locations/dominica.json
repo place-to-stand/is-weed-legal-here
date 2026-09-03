@@ -1,0 +1,246 @@
+{
+  "name": "Dominica",
+  "labels": {
+    "administrativeAreaLevel1": {
+      "plural": "Parishes",
+      "singular": "Parish"
+    },
+    "locality": {
+      "plural": "Cities",
+      "singular": "City"
+    }
+  },
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "271f436a48a4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "d4c7ba273ad20",
+            "_type": "span",
+            "marks": [],
+            "text": "In Dominica, the legal status of marijuana and related products is complex. While Dominica has decriminalized the possession of small amounts of cannabis for personal use, the country has not fully legalized the substance."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "885432a08bd5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "9f93ee7eb4060",
+            "_type": "span",
+            "marks": [],
+            "text": "Regarding specific cannabinoids, the situation is as follows:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "186ecf4b294e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cc8cfab9bb3f0",
+            "_type": "span",
+            "marks": [],
+            "text": "CBD: CBD is generally legal in Dominica, as long as it is derived from hemp containing less than 0.3% THC."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "609de828c371",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "2e72fe8c65200",
+            "_type": "span",
+            "marks": [],
+            "text": "Delta-8 THC, Delta-9 THC, and THCA: These cannabinoids are considered illegal in Dominica, as they are derived from the cannabis plant and contain psychoactive properties. The possession, sale, or use of products containing these compounds can result in legal consequences."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "5935227e3a17",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "8934c754d2000",
+            "_type": "span",
+            "marks": [],
+            "text": "In summary, while Dominica has taken steps to decriminalize personal cannabis use, the country maintains strict regulations on the production, sale, and distribution of marijuana and related products, including delta-8, delta-9, THCA, and CBD. The legal landscape continues to evolve, and individuals are advised to stay informed about the latest developments in Dominica's cannabis laws."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "1 ounce"
+    },
+    "thca": {
+      "legalStatus": "illegal"
+    },
+    "delta9": {
+      "legalStatus": "illegal"
+    },
+    "delta8": {
+      "legalStatus": "illegal"
+    },
+    "cbd": {
+      "legalStatus": "legal"
+    }
+  },
+  "administrativeAreaLevel1": [
+    {
+      "name": "Saint George Parish",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "a01f4cca5d4f",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "e975a973bb070",
+                "_type": "span",
+                "marks": [],
+                "text": "In Saint George Parish, Dominica, the legal status of marijuana and related products is evolving, with the country taking steps to decriminalize the possession of small amounts for personal use."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "73076985de71",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "af0c0589153d0",
+                "_type": "span",
+                "marks": [],
+                "text": "Regarding the specific cannabinoids:"
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "810287db1166",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "b2c85e9ca0500",
+                "_type": "span",
+                "marks": [],
+                "text": "CBD: CBD is generally legal in Dominica, as long as it is derived from hemp containing less than 0.3% THC."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "ca35fa0f3e47",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "3527f6af69f10",
+                "_type": "span",
+                "marks": [],
+                "text": "Delta-8 THC, Delta-9 THC, and THCA: These cannabinoids are considered illegal in Dominica, as they are derived from the cannabis plant and contain psychoactive properties. The possession, sale, or use of products containing these compounds can result in legal consequences."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "6fd569a7b799",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "c0bff116d0880",
+                "_type": "span",
+                "marks": [],
+                "text": "In 2020, the government of Dominica passed an amendment to the Drugs (Prevention of Misuse) Act, which decriminalized the possession of up to 28 grams (1 ounce) of cannabis for adults. However, the cultivation, sale, and possession of cannabis for recreational purposes remain illegal. The government has also indicated plans to establish a legal cannabis industry for medical and wellness purposes in 2023."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "illegal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized",
+          "quantity": "1 ounce"
+        },
+        "thca": {
+          "legalStatus": "illegal"
+        },
+        "delta9": {
+          "legalStatus": "illegal"
+        },
+        "delta8": {
+          "legalStatus": "illegal"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Roseau",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "70927129ed5b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "664fee0aafba0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Roseau, Dominica, the legal status of marijuana and related products is evolving, with the country taking steps to decriminalize the possession of small amounts for personal use."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "illegal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized",
+              "quantity": "1 oounce"
+            },
+            "thca": {
+              "legalStatus": "illegal"
+            },
+            "delta9": {
+              "legalStatus": "illegal"
+            },
+            "delta8": {
+              "legalStatus": "illegal"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

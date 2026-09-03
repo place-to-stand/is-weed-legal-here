@@ -1,0 +1,389 @@
+{
+  "name": "Moldova",
+  "labels": {
+    "administrativeAreaLevel1": {
+      "plural": "Administrative Areas Level 1",
+      "singular": "Administrative Area Level 1"
+    },
+    "locality": {
+      "plural": "Cities",
+      "singular": "City"
+    }
+  },
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "36f3e5fd444a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "d624edf9a951",
+            "_type": "span",
+            "marks": [],
+            "text": "In Moldova, despite being a widely used drug, both medical and recreational use of cannabis is illegal. The country has strict drug laws and does not differentiate between different types of drugs, including cannabis. However, small-scale personal use of marijuana has been decriminalized. This regulation usually relates to possessing under two grams of dried or 10 grams of fresh cannabis. At these quantities, cannabis use for recreational purposes is an administrative offense that does not come with criminal charges. The small-scale use or possession can result in a 60 MDL fine or 40 hours of community service."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "19e31ab22667",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b110830b64f2",
+            "_type": "span",
+            "marks": [],
+            "text": "In terms of related substances such as Delta 8, Delta 9, THCA, and CBD, the law in Moldova is equally strict. These substances are considered to be derivatives of cannabis and are therefore also illegal. There is no legal distinction between these substances and cannabis itself, and possession or use can lead to the same penalties. Despite this, there is a growing debate in the country about the potential benefits of these substances, particularly CBD, for medical use."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "2 grams dried, 10 grams fresh"
+    },
+    "thca": {
+      "legalStatus": "decriminalized",
+      "quantity": "2 grams dried, 10 grams fresh"
+    },
+    "delta9": {
+      "legalStatus": "decriminalized",
+      "quantity": "2 grams dried, 10 grams fresh"
+    },
+    "delta8": {
+      "legalStatus": "decriminalized",
+      "quantity": "2 grams dried, 10 grams fresh"
+    },
+    "cbd": {
+      "legalStatus": "decriminalized"
+    }
+  },
+  "administrativeAreaLevel1": [
+    {
+      "name": "Administrative-Territorial Units of the Left Bank of the Dniester",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "e9ff0c964cd8",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "a73f63c118ad0",
+                "_type": "span",
+                "marks": [],
+                "text": "In The Administrative-Territorial Units of the Left Bank of the Dniester, or better referred to as Transnistria, Moldova, cannabis laws strike a balance with personal use decriminalized but still considered an administrative offense. Possession for personal consumption typically avoids criminal charges, but involvement in distribution or larger quantities can lead to more severe consequences. The region has its own regulations allowing transparent elections and recognizes Romanian, Russian, and Ukrainian as official languages. When it comes to cannabis derivatives like Delta-8 and Delta-9 THC, the laws remain stringent, treating them similarly to cannabis itself. Despite ongoing discussions on CBD benefits, current laws maintain a strong prohibition, indicating potential shifts in Moldova's cannabis regulations."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "illegal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized",
+          "quantity": "2 grams dried, 10 grams fresh"
+        },
+        "thca": {
+          "legalStatus": "decriminalized",
+          "quantity": "2 grams dried, 10 grams fresh"
+        },
+        "delta9": {
+          "legalStatus": "decriminalized",
+          "quantity": "2 grams dried, 10 grams fresh"
+        },
+        "delta8": {
+          "legalStatus": "decriminalized",
+          "quantity": "2 grams dried, 10 grams fresh"
+        },
+        "cbd": {
+          "legalStatus": "decriminalized"
+        }
+      },
+      "locality": [
+        {
+          "name": "Tiraspol",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "2c397650394f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a92ac2d286c70",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Tiraspol, Moldova, cannabis laws take a balanced approach with personal use decriminalized but still considered an administrative offense. Minor possession for personal consumption typically avoids criminal charges, but distribution or larger quantities can lead to more severe consequences. The region has its own regulations allowing transparent elections and recognizes Romanian, Russian, and Ukrainian as official languages. When it comes to cannabis derivatives like Delta-8 and Delta-9 THC, the laws remain stringent, treating them similarly to cannabis itself. Despite ongoing discussions on CBD benefits, current laws maintain a strong prohibition, hinting at potential changes in Moldova's cannabis regulations."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "illegal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized",
+              "quantity": "2 grams dried, 10 grams fresh"
+            },
+            "thca": {
+              "legalStatus": "decriminalized",
+              "quantity": "2 grams dried, 10 grams fresh"
+            },
+            "delta9": {
+              "legalStatus": "decriminalized",
+              "quantity": "2 grams dried, 10 grams fresh"
+            },
+            "delta8": {
+              "legalStatus": "decriminalized",
+              "quantity": "2 grams dried, 10 grams fresh"
+            },
+            "cbd": {
+              "legalStatus": "decriminalized"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Balti",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "6c411c21b2a4",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "eb767789f4d30",
+                "_type": "span",
+                "marks": [],
+                "text": "In Balti, Moldova, it can be inferred that Moldova has strict drug laws that consider cannabis illegal for both medical and recreational use. Possession of small amounts of cannabis for personal use may be decriminalized, leading to administrative penalties rather than criminal charges. The country's drug laws do not differentiate between various forms of cannabis, including derivatives like Delta-8, Delta-9 THC, THCA, and CBD, all of which are considered illegal substances in Moldova."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "2e3d4ea2cb78",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "8afe5aed233e0",
+                "_type": "span",
+                "marks": [],
+                "text": "The legal landscape in Moldova reflects a stringent approach to cannabis and its derivatives, with no legal distinction made between these substances and cannabis itself. Despite ongoing debates about the potential medical benefits of substances like CBD, the current laws maintain a strict stance against their possession or use. Moldova's regulatory framework emphasizes the illegality of cannabis-related products beyond just the plant itself, aligning with a broader prohibitionist approach to drug policy in the country."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "illegal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized",
+          "quantity": "2 grams dried, 10 grams fresh"
+        },
+        "thca": {
+          "legalStatus": "decriminalized",
+          "quantity": "2 grams dried, 10 grams fresh"
+        },
+        "delta9": {
+          "legalStatus": "decriminalized",
+          "quantity": "2 grams dried, 10 grams fresh"
+        },
+        "delta8": {
+          "legalStatus": "decriminalized",
+          "quantity": "2 grams dried, 10 grams fresh"
+        },
+        "cbd": {
+          "legalStatus": "decriminalized"
+        }
+      },
+      "locality": [
+        {
+          "name": "Bălți",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "b384e642c7ae",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cc018d4d7f9a0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Bălți, Moldova, the attitude towards cannabis is mixed, with personal use decriminalized but still considered an administrative offense. While minor possession for personal consumption isn't typically met with criminal charges, larger amounts or involvement in distribution can lead to more serious legal consequences. Moldova's laws maintain a firm stance against recreational cannabis, imposing fines or community service for minor infractions and potential criminal penalties for more significant offenses."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "00844385dd8d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b27c6b5771c80",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "When it comes to specific cannabis variations like Delta-8 and Delta-9 THC in Bălți, Moldova, the regulations remain strict. These derivatives are treated as illegal extensions of cannabis, reflecting the country's overall position on the plant itself. Moldova treats these derivatives similarly to the plant, resulting in comparable consequences for their possession or use. Despite ongoing discussions on the potential benefits of substances like CBD, especially in medical contexts, current laws uphold a strong prohibition. The ongoing dialogue around the medical potential of CBD and other derivatives signals a growing interest in exploring alternative approaches to cannabis regulation within Moldova's legal framework."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "illegal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized",
+              "quantity": "2 grams dried, 10 grams fresh"
+            },
+            "thca": {
+              "legalStatus": "decriminalized",
+              "quantity": "2 grams dried, 10 grams fresh"
+            },
+            "delta9": {
+              "legalStatus": "decriminalized",
+              "quantity": "2 grams dried, 10 grams fresh"
+            },
+            "delta8": {
+              "legalStatus": "decriminalized",
+              "quantity": "2 grams dried, 10 grams fresh"
+            },
+            "cbd": {
+              "legalStatus": "decriminalized"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chisinau",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "e89a84e80ccc",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "eb4a1a72dcf70",
+                "_type": "span",
+                "marks": [],
+                "text": "In Chisinau, Moldova, the approach to cannabis is quite balanced, with personal cannabis use being decriminalized but still considered an administrative offense. While minor possession for personal consumption usually doesn't lead to criminal charges, getting caught with larger amounts or involved in distribution can bring about more serious legal consequences. Moldova's laws take a firm stand against recreational cannabis, opting for fines or community service for minor infractions and the possibility of criminal penalties for more significant offenses."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "4444cfcf66ed",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "b869d9491c050",
+                "_type": "span",
+                "marks": [],
+                "text": "When it comes to specific cannabis derivatives like Delta-8 and Delta-9 THC in Chisinau, Moldova, the regulations remain strict. These substances are seen as illegal extensions of cannabis, in line with the country's overall stance on the plant itself. Moldova treats these derivatives similarly to cannabis, resulting in comparable consequences for their possession or use. Despite ongoing discussions on the potential benefits of substances like CBD, especially in medical contexts, current laws maintain a strong prohibition. The ongoing conversation around the medical potential of CBD and other derivatives signals a growing interest in exploring alternative approaches to cannabis regulation within Moldova's legal framework."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "illegal"
+        },
+        "recreational": {
+          "legalStatus": "decriminalized",
+          "quantity": "2 grams dried, 10 grams fresh"
+        },
+        "thca": {
+          "legalStatus": "decriminalized",
+          "quantity": "2 grams dried, 10 grams fresh"
+        },
+        "delta9": {
+          "legalStatus": "decriminalized",
+          "quantity": "2 grams dried, 10 grams fresh"
+        },
+        "delta8": {
+          "legalStatus": "decriminalized",
+          "quantity": "2 grams dried, 10 grams fresh"
+        },
+        "cbd": {
+          "legalStatus": "decriminalized"
+        }
+      },
+      "locality": [
+        {
+          "name": "Chișinău",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "38f816df1453",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0d0849aa027f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Chișinău, Moldova, the legality of cannabis is quite strict. Both medical and recreational use of cannabis is currently illegal despite being widely used. The city has strict drug laws and does not differentiate between different types of drugs, including cannabis. However, small-scale personal use of marijuana has been decriminalized. This regulation usually relates to possessing under two grams of dried or 10 grams of fresh cannabis. At these quantities, cannabis use for recreational purposes is an administrative offense that does not come with criminal charges. The small-scale use or possession can result in a 60 MDL fine or 40 hours of community service."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "d3a7fcc107a0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "45e32f5a426e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In terms of related substances such as Delta 8, Delta 9, THCA, and CBD, the law in Moldova is equally strict. These substances are considered to be derivatives of cannabis and are therefore also illegal. There is no legal distinction between these substances and cannabis itself, and possession or use can lead to the same penalties. Despite this, there is a growing debate in the country about the potential benefits of these substances, particularly CBD, for medical use."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "illegal"
+            },
+            "recreational": {
+              "legalStatus": "decriminalized",
+              "quantity": "2 grams dried, 10 grams fresh"
+            },
+            "thca": {
+              "legalStatus": "decriminalized",
+              "quantity": "2 grams dried, 10 grams fresh"
+            },
+            "delta9": {
+              "legalStatus": "decriminalized",
+              "quantity": "2 grams dried, 10 grams fresh"
+            },
+            "delta8": {
+              "legalStatus": "decriminalized",
+              "quantity": "2 grams dried, 10 grams fresh"
+            },
+            "cbd": {
+              "legalStatus": "decriminalized"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

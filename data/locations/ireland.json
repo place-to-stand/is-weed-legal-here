@@ -1,0 +1,577 @@
+{
+  "name": "Ireland",
+  "labels": {
+    "administrativeAreaLevel1": {
+      "plural": "Counties",
+      "singular": "County"
+    },
+    "locality": {
+      "plural": "Cities",
+      "singular": "City"
+    }
+  },
+  "isWeedLegalHere": {
+    "overview": [
+      {
+        "_key": "92bb62edb313",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "8e86958b577f",
+            "_type": "span",
+            "marks": [],
+            "text": "In Ireland, the legality of cannabis is a complex issue. Medical cannabis is legal under certain conditions. The Minister for Health can grant a license for access to cannabis for medical reasons. However, recreational use of cannabis is illegal and is punishable by law. The possession of small amounts can lead to a fine, while larger amounts can lead to imprisonment."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "9807ec9f7cf5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "e52574d7d1aa",
+            "_type": "span",
+            "marks": [],
+            "text": "Related substances such as Delta 8, Delta 9, THCA, and CBD are also regulated. Delta 8 and Delta 9 are considered psychoactive substances and are therefore illegal. THCA, the precursor to THC, is also illegal due to its potential to convert to THC. CBD, on the other hand, is legal as long as it contains less than 0.2% THC. It's important to note that while CBD is legal, it is still regulated and must meet certain quality and safety standards."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "illegal"
+    },
+    "thca": {
+      "legalStatus": "illegal"
+    },
+    "delta9": {
+      "legalStatus": "illegal"
+    },
+    "delta8": {
+      "legalStatus": "illegal"
+    },
+    "cbd": {
+      "legalStatus": "legal"
+    }
+  },
+  "administrativeAreaLevel1": [
+    {
+      "name": "County Cork",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "5ea5ffddf3f8",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "9c864a16c1dd0",
+                "_type": "span",
+                "marks": [],
+                "text": "In County Cork, Ireland, cannabis possession and use are illegal under the Misuse of Drugs Acts (1977-2016), with penalties varying based on the amount of cannabis involved and the intent behind possession. The law distinguishes between possession for personal use and possession with intent to supply, with fines and potential prison sentences imposed accordingly. Despite the strict stance on recreational cannabis, Ireland has shown a more progressive approach towards CBD and medical cannabis, both of which are legal in the country. The legal landscape in County Cork reflects Ireland's evolving attitudes towards cannabis, with ongoing discussions about potential legalization for personal use."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "4b08b1e3f621",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "37e04769a98b0",
+                "_type": "span",
+                "marks": [],
+                "text": "Regarding specific cannabis derivatives like Delta-8 and Delta-9 in County Cork, the legal status aligns with Ireland's strict regulations. While CBD is legal due to its non-psychoactive nature, substances like Delta-8 and Delta-9 face legal ambiguity. These compounds derived from hemp are subject to stringent restrictions, reflecting the complexities of Irish laws surrounding cannabis derivatives. Products containing THCA and CBD are part of the discussion in County Cork within the legal framework established by Ireland's regulations, catering to consumers seeking non-psychoactive cannabis compounds while navigating the evolving regulatory landscape."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "legal"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Cork",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "8e1bc300a609",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9e12fa048e5e0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Cork, Ireland, cannabis is illegal under the Misuse of Drugs Acts, with penalties varying based on possession intent. Despite strict regulations on recreational use, CBD and medical cannabis are legal, reflecting Ireland's evolving views. Cork's legal landscape navigates discussions around potential personal use legalization and accommodates non-psychoactive cannabis preferences."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "cc36fdc9ce0a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e4f0182444330",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Specific derivatives like Delta-8 and Delta-9 face legal uncertainties in Cork, aligning with Ireland's stringent regulations. While CBD is lawful for its non-psychoactive nature, compounds like Delta-8 and Delta-9 encounter complexities. Products containing THCA and CBD are part of Cork's regulatory dialogue, catering to those seeking non-psychoactive options amidst evolving cannabis laws."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "legal"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "County Dublin",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "6c0189970d08",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "b8524eb8f6680",
+                "_type": "span",
+                "marks": [],
+                "text": "In County Dublin, Ireland, cannabis possession and use are governed by the Misuse of Drugs Acts (1977-2016), making it illegal to possess cannabis for recreational purposes. Penalties for possession vary based on the intent behind possession, with fines and potential prison sentences imposed accordingly. Despite the strict regulations on recreational cannabis, Ireland has adopted a more lenient approach towards CBD and medical cannabis, both of which are legal in the country. The legal framework in County Dublin likely mirrors that of the entire nation, reflecting Ireland's evolving attitudes towards cannabis."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "0c6e958b2b56",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "07e1c4b05ebb0",
+                "_type": "span",
+                "marks": [],
+                "text": "Regarding specific cannabis derivatives like Delta-8 and Delta-9 in County Dublin, these substances face legal uncertainties within Ireland's stringent regulations. While CBD is permissible due to its non-psychoactive properties, compounds like Delta-8 and Delta-9 encounter complexities under Irish law. Products containing THCA and CBD are part of the ongoing discussions within County Dublin's legal framework, catering to individuals seeking non-psychoactive cannabis options amidst the evolving regulatory landscape surrounding cannabis derivatives."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "legal"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Dublin",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "98b6d7ce32ac",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8432d5a78f890",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Dublin, Ireland, cannabis for recreational use remains on the illegal side of the law under the Misuse of Drugs Acts (1977-2016), with consequences like fines or potential jail time for possession or sale. However, when it comes to CBD and medical cannabis, Dublin takes a more chill approach, giving them the green light within the country. This laid-back attitude means you can find CBD products legally while recreational cannabis is still a no-go, reflecting a mix of strict rules and a more open view on certain cannabis products."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "90c9d7c7a5b4",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "eb97615e74d90",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Now, when we talk about specific stuff like Delta-8 and Delta-9 THC in Dublin, things get a bit hazy. These compounds face some legal uncertainties in Ireland's rulebook. While CBD gets the thumbs up for being mellow, Delta-8 and Delta-9 have to navigate through some legal fog. The status of THCA and CBD derivatives is part of the ongoing conversation in Dublin's cannabis scene. As attitudes shift and laws evolve, the legality of these products might sway depending on how Dublin rolls with its regulations and enforcement vibes."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "legal"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "County Galway",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "eebd30cc4d23",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "ed3c9ee3010f0",
+                "_type": "span",
+                "marks": [],
+                "text": "In County Galway, Ireland, the vibe around cannabis follows the Misuse of Drugs Acts (1977-2016), keeping things chill with recreational use still off-limits. Penalties for possession vary, but the scene is more about fines and potential time behind bars rather than a laid-back toke. While cannabis seeds are around, growing your own stash is a no-go in Ireland, with rules in place to keep cultivation in check."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "c6369c973205",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "c64598edcd9f0",
+                "_type": "span",
+                "marks": [],
+                "text": "When it comes to the local buzz in County Galway, like the recent buzz around cannabis grow houses, law enforcement isn't vibing with illegal cultivation and distribution. The discovery of these spots and drug busts show a commitment to keeping things mellow and safe in the region. It's all about enforcing the rules and cracking down on any shady activities to keep County Galway's cannabis scene on the straight and narrow."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "legal"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Galway",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "12389cf8810f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ce8bad9568330",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Galway, Ireland, when it comes to cannabis, the rules stick to the Misuse of Drugs Acts (1977-2016), keeping things on the no-go side for recreational use. Penalties for having a stash vary, with fines and even a chance of ending up behind bars depending on the situation. While you might spot cannabis seeds around, growing your own green is a big red flag in Ireland, where they like to keep a tight lid on cultivation."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "c8135f9da5e2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "794e1fb340a80",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Now, talking about the nitty-gritty like Delta-8 and Delta-9 THC in Galway, things get a bit fuzzy. These substances face some legal uncertainties under Irish law. While CBD gets the green light for being chill, Delta-8 and Delta-9 have to navigate through some legal haze. The status of THCA and CBD derivatives is part of the ongoing chat in Galway's cannabis scene, catering to those looking for non-psychoactive options amidst the changing rules around cannabis derivatives."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "legal"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "County Limerick",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "20c5bc2d88e5",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "36e3f96410e30",
+                "_type": "span",
+                "marks": [],
+                "text": "In County Limerick, Ireland, when it comes to cannabis, the rules are all about keeping things on the straight and narrow as per the Misuse of Drugs Acts (1977-2016), frowning upon any recreational puffing. Penalties for having a stash can range from a slap on the wrist to potentially ending up in a not-so-fun time-out. While you might stumble upon cannabis seeds in Ireland, trying to grow your own green is a big no-no, with the authorities making sure things stay on the up and up."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          },
+          {
+            "_key": "d005689e6f9e",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "43cb09be9e9b0",
+                "_type": "span",
+                "marks": [],
+                "text": "Now, diving into the weeds with Delta-8 and Delta-9 THC in County Limerick, things start to get a bit hazy. These substances face some legal uncertainties under Irish law. While CBD gets the thumbs up for being chill, Delta-8 and Delta-9 have to navigate through some legal fog. The status of THCA and CBD derivatives is part of the ongoing chat in County Limerick's cannabis scene, catering to those looking for non-psychoactive options amidst the changing rules around cannabis derivatives."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "legal"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Limerick",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "3c2ed0ad6db3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "874eb991af690",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Limerick, Ireland, cannabis laws follow the Misuse of Drugs Acts, with recent cannabis network discoveries highlighting enforcement efforts. While cannabis seeds are available, growing plants is illegal. The legal status of Delta-8, Delta-9 THC, THCA, and CBD varies in Limerick."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "legal"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "County Waterford",
+      "isWeedLegalHere": {
+        "overview": [
+          {
+            "_key": "61a7e7f4b3bc",
+            "_type": "block",
+            "children": [
+              {
+                "_key": "27bf27dfc2620",
+                "_type": "span",
+                "marks": [],
+                "text": "Based on the general laws and regulations in Ireland, it can be inferred that County Waterford, like the rest of Ireland, follows the Misuse of Drugs Acts (1977-2016), which prohibit cannabis possession and use for recreational purposes. Possession of cannabis in Ireland is illegal, with penalties varying based on the amount of cannabis involved and the intent behind possession. While CBD and medical cannabis are legal in Ireland, recreational cannabis remains strictly prohibited. The legal landscape in County Waterford likely mirrors that of the entire country, with strict regulations governing cannabis possession, sale, and cultivation."
+              }
+            ],
+            "markDefs": [],
+            "style": "normal"
+          }
+        ],
+        "medicinal": {
+          "legalStatus": "legal"
+        },
+        "recreational": {
+          "legalStatus": "illegal"
+        },
+        "thca": {
+          "legalStatus": "legal"
+        },
+        "delta9": {
+          "legalStatus": "unclear"
+        },
+        "delta8": {
+          "legalStatus": "unclear"
+        },
+        "cbd": {
+          "legalStatus": "legal"
+        }
+      },
+      "locality": [
+        {
+          "name": "Waterford",
+          "isWeedLegalHere": {
+            "overview": [
+              {
+                "_key": "c05520dd53e5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1de14bd6db320",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "In Waterford, Ireland, the cannabis scene is evolving, with discussions leaning towards viewing drug use more as a health issue than just a legal matter. The Citizens' Assembly on Drugs Use has been buzzing about recommending a health-focused approach, suggesting that individuals caught with drugs should engage with health services rather than facing criminal consequences. This shift in perspective could lead to changes in how cannabis-related offenses are handled, potentially moving towards a more health-oriented response rather than a punitive one."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "03e07f33beac",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f894b748d4620",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Now, when it comes to specific cannabis derivatives like Delta-8 and Delta-9 THC in Waterford, things get a bit hazy. These substances face some legal uncertainties within Ireland's regulatory framework. While CBD gets the green light for being chill, Delta-8 and Delta-9 have to navigate through some legal fog. The status of THCA and CBD derivatives is part of the ongoing chat in Waterford's cannabis scene, catering to those looking for non-psychoactive options amidst the changing rules around cannabis derivatives. So, while the vibe is shifting towards a more relaxed approach to drug use in Waterford, the specifics around these cannabis compounds are still up in the air."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
+            "medicinal": {
+              "legalStatus": "legal"
+            },
+            "recreational": {
+              "legalStatus": "illegal"
+            },
+            "thca": {
+              "legalStatus": "legal"
+            },
+            "delta9": {
+              "legalStatus": "unclear"
+            },
+            "delta8": {
+              "legalStatus": "unclear"
+            },
+            "cbd": {
+              "legalStatus": "legal"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Thailand",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "legal"
+    },
+    "recreational": {
+      "legalStatus": "legal"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Belgium",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "3 grams"
+    }
+  }
+}

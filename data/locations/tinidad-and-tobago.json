@@ -1,0 +1,12 @@
+{
+  "name": "Tinidad and Tobago",
+  "isWeedLegalHere": {
+    "medicinal": {
+      "legalStatus": "illegal"
+    },
+    "recreational": {
+      "legalStatus": "decriminalized",
+      "quantity": "30 grams"
+    }
+  }
+}
