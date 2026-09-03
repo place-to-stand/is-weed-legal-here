@@ -1,7 +1,6 @@
 'use client'
 
 import { useState } from 'react'
-import { feedbackIntegration } from '@sentry/react'
 
 import Modal, { ModalType } from './Modal'
 import { usePathname } from 'next/navigation'
@@ -47,27 +46,13 @@ const Footer = () => {
             GitHub
           </a>
           <span>·</span>
-          <button
+          <a
+            href='https://github.com/thegfnc/is-weed-legal-here/issues/new'
+            target='_blank'
             className='underline-offset-2 hover:underline'
-            onClick={async () => {
-              const feedback = feedbackIntegration({
-                autoInject: false,
-                showBranding: false,
-                colorScheme: 'dark',
-                formTitle: 'Report an Error',
-                messagePlaceholder:
-                  'What went wrong? Let us know if you encountered incorrect data or a bug.',
-                submitButtonLabel: 'Send Report',
-              })
-
-              const feedbackForm = await feedback.createForm({})
-
-              feedbackForm.appendToDom()
-              feedbackForm.open()
-            }}
           >
             Report an error
-          </button>
+          </a>
         </div>
       </div>
 
